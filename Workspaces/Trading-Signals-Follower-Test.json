@@ -76,7 +76,7 @@
                                                                                             "arrangementStyle": 0
                                                                                         },
                                                                                         "uiObject": {
-                                                                                            "isRunning": true
+                                                                                            "isRunning": false
                                                                                         },
                                                                                         "referenceParent": {
                                                                                             "type": "Process Definition",
@@ -102,7 +102,7 @@
                                                                             ],
                                                                             "socialTradingBotReference": {
                                                                                 "type": "Social Trading Bot Reference",
-                                                                                "name": "",
+                                                                                "name": "Social Trading Bot #1",
                                                                                 "project": "Social-Trading",
                                                                                 "id": "4c1fbef7-3ed2-4d76-9ca6-02eeec35681d",
                                                                                 "savedPayload": {
@@ -124,7 +124,30 @@
                                                                                     },
                                                                                     "uiObject": {
                                                                                         "isRunning": false
-                                                                                    }
+                                                                                    },
+                                                                                    "referenceParent": {
+                                                                                        "type": "Social Trading Bot",
+                                                                                        "name": "Social Trading Bot #1",
+                                                                                        "id": "b06a6b31-66a8-4315-8175-c862858c8c01"
+                                                                                    },
+                                                                                    "referenceParentCombinedNodePath": [
+                                                                                        [
+                                                                                            "prepheadrus",
+                                                                                            "User Profile"
+                                                                                        ],
+                                                                                        [
+                                                                                            "New User Bots",
+                                                                                            "User Bots"
+                                                                                        ],
+                                                                                        [
+                                                                                            "New Social Trading Bots",
+                                                                                            "Social Trading Bots"
+                                                                                        ],
+                                                                                        [
+                                                                                            "Social Trading Bot #1",
+                                                                                            "Social Trading Bot"
+                                                                                        ]
+                                                                                    ]
                                                                                 }
                                                                             },
                                                                             "id": "0a96aae7-bded-42b1-bd93-6bdcdb74f48b",
@@ -152,7 +175,7 @@
                                                                         },
                                                                         "taskServerAppReference": {
                                                                             "type": "Task Server App Reference",
-                                                                            "name": "",
+                                                                            "name": "Task Server App #18",
                                                                             "project": "User-Apps",
                                                                             "id": "c47d9a7d-5322-4220-939a-4efc2605b6ed",
                                                                             "savedPayload": {
@@ -174,7 +197,30 @@
                                                                                 },
                                                                                 "uiObject": {
                                                                                     "isRunning": false
-                                                                                }
+                                                                                },
+                                                                                "referenceParent": {
+                                                                                    "type": "Task Server App",
+                                                                                    "name": "Task Server App #18",
+                                                                                    "id": "2ab512a4-4ac4-4029-8399-501243ebe5be"
+                                                                                },
+                                                                                "referenceParentCombinedNodePath": [
+                                                                                    [
+                                                                                        "prepheadrus",
+                                                                                        "User Profile"
+                                                                                    ],
+                                                                                    [
+                                                                                        "New User Apps",
+                                                                                        "User Apps"
+                                                                                    ],
+                                                                                    [
+                                                                                        "New Server Apps",
+                                                                                        "Server Apps"
+                                                                                    ],
+                                                                                    [
+                                                                                        "Task Server App #18",
+                                                                                        "Task Server App"
+                                                                                    ]
+                                                                                ]
                                                                             }
                                                                         },
                                                                         "p2pNetworkClient": {
@@ -402,7 +448,7 @@
                                                                                 "arrangementStyle": 0
                                                                             },
                                                                             "uiObject": {
-                                                                                "isRunning": true
+                                                                                "isRunning": false
                                                                             }
                                                                         }
                                                                     },
@@ -439,7 +485,7 @@
                                                                                             "arrangementStyle": 0
                                                                                         },
                                                                                         "uiObject": {
-                                                                                            "isRunning": true
+                                                                                            "isRunning": false
                                                                                         },
                                                                                         "referenceParent": {
                                                                                             "type": "Process Definition",
@@ -485,7 +531,7 @@
                                                                                             "arrangementStyle": 0
                                                                                         },
                                                                                         "uiObject": {
-                                                                                            "isRunning": true
+                                                                                            "isRunning": false
                                                                                         },
                                                                                         "referenceParent": {
                                                                                             "type": "Process Definition",
@@ -551,7 +597,7 @@
                                                                                 "arrangementStyle": 0
                                                                             },
                                                                             "uiObject": {
-                                                                                "isRunning": true
+                                                                                "isRunning": false
                                                                             }
                                                                         }
                                                                     }
@@ -575,7 +621,7 @@
                                                                         "arrangementStyle": 0
                                                                     },
                                                                     "uiObject": {
-                                                                        "isRunning": true
+                                                                        "isRunning": false
                                                                     }
                                                                 }
                                                             }
@@ -599,7 +645,7 @@
                                                                 "arrangementStyle": 0
                                                             },
                                                             "uiObject": {
-                                                                "isRunning": true
+                                                                "isRunning": false
                                                             },
                                                             "referenceParent": {
                                                                 "type": "Data Mine",
@@ -634,7 +680,7 @@
                                                         "arrangementStyle": 0
                                                     },
                                                     "uiObject": {
-                                                        "isRunning": true
+                                                        "isRunning": false
                                                     },
                                                     "referenceParent": {
                                                         "type": "Market",
@@ -685,7 +731,7 @@
                                                 "arrangementStyle": 0
                                             },
                                             "uiObject": {
-                                                "isRunning": true
+                                                "isRunning": false
                                             },
                                             "referenceParent": {
                                                 "type": "Crypto Exchange",
@@ -728,7 +774,7 @@
                                         "arrangementStyle": 0
                                     },
                                     "uiObject": {
-                                        "isRunning": true
+                                        "isRunning": false
                                     },
                                     "referenceParent": {
                                         "type": "Project Definition",
@@ -767,7 +813,7 @@
                                 "arrangementStyle": 0
                             },
                             "uiObject": {
-                                "isRunning": true
+                                "isRunning": false
                             }
                         }
                     },
@@ -832,12 +878,12 @@
                                                                                                 "id": "e349d072-bbf8-43dd-8aa0-bf937da604ec",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27139.856244232356,
-                                                                                                        "y": 31698.755345528592
+                                                                                                        "x": 26860.856244232356,
+                                                                                                        "y": 32058.755345528592
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -855,17 +901,17 @@
                                                                                             "sessionQuotedAsset": {
                                                                                                 "type": "Session Quoted Asset",
                                                                                                 "name": "",
-                                                                                                "config": "{\n    \"initialBalance\": 50\n}",
+                                                                                                "config": "{\n    \"initialBalance\": 40\n}",
                                                                                                 "project": "Foundations",
                                                                                                 "id": "4644a30d-1c2e-4923-bfd1-54c3daa46053",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27097.47879811607,
-                                                                                                        "y": 31603.574043167268
+                                                                                                        "x": 26818.47879811607,
+                                                                                                        "y": 31963.574043167268
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -888,12 +934,12 @@
                                                                                                 "id": "01111475-da94-463b-a7fc-af609e6ed129",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27090.210947388387,
-                                                                                                        "y": 31499.63893550707
+                                                                                                        "x": 26811.210947388387,
+                                                                                                        "y": 31859.63893550707
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -916,12 +962,12 @@
                                                                                                 "id": "ec020f4e-8811-4fc6-a463-1c4676a990a0",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27118.929302109118,
-                                                                                                        "y": 31399.486130450645
+                                                                                                        "x": 26839.929302109118,
+                                                                                                        "y": 31759.486130450645
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -944,12 +990,12 @@
                                                                                                 "id": "b4156bf9-a105-4b50-be43-1bfd5d51a9d1",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27180.170004861167,
-                                                                                                        "y": 31315.195534385773
+                                                                                                        "x": 26901.170004861167,
+                                                                                                        "y": 31675.195534385773
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -972,12 +1018,12 @@
                                                                                                 "id": "becdeb03-e60a-43ae-882f-b64ed9d701af",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27266.54652307613,
-                                                                                                        "y": 31256.93383719459
+                                                                                                        "x": 26987.54652307613,
+                                                                                                        "y": 31616.93383719459
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1000,12 +1046,12 @@
                                                                                                 "id": "df9a6bb8-b0fd-43ad-b82d-7d5c3e863951",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27367.64057387563,
-                                                                                                        "y": 31231.72825940942
+                                                                                                        "x": 27088.64057387563,
+                                                                                                        "y": 31591.72825940942
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1028,12 +1074,12 @@
                                                                                                 "id": "151b6109-e279-4055-8599-eb7177ce32f5",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27471.25872274397,
-                                                                                                        "y": 31242.618965705875
+                                                                                                        "x": 27192.25872274397,
+                                                                                                        "y": 31602.618965705875
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27388.567515998868,
-                                                                                                        "y": 31530.99747448737
+                                                                                                        "x": 27109.567515998868,
+                                                                                                        "y": 31890.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1051,12 +1097,12 @@
                                                                                             "id": "54ab05ff-4c73-442c-bb9f-2f7780faf6c6",
                                                                                             "savedPayload": {
                                                                                                 "position": {
-                                                                                                    "x": 27388.567515998868,
-                                                                                                    "y": 31530.99747448737
+                                                                                                    "x": 27109.567515998868,
+                                                                                                    "y": 31890.99747448737
                                                                                                 },
                                                                                                 "targetPosition": {
-                                                                                                    "x": 27631.27261431135,
-                                                                                                    "y": 31707.33305017511
+                                                                                                    "x": 27352.27261431135,
+                                                                                                    "y": 32067.33305017511
                                                                                                 },
                                                                                                 "floatingObject": {
                                                                                                     "isPinned": false,
@@ -1078,12 +1124,12 @@
                                                                                             "id": "e7de660e-e8ae-40cc-89e6-1add0bbce159",
                                                                                             "savedPayload": {
                                                                                                 "position": {
-                                                                                                    "x": 27584.34227479928,
-                                                                                                    "y": 31411.02654799657
+                                                                                                    "x": 27305.34227479928,
+                                                                                                    "y": 31771.02654799657
                                                                                                 },
                                                                                                 "targetPosition": {
-                                                                                                    "x": 27631.27261431135,
-                                                                                                    "y": 31707.33305017511
+                                                                                                    "x": 27352.27261431135,
+                                                                                                    "y": 32067.33305017511
                                                                                                 },
                                                                                                 "floatingObject": {
                                                                                                     "isPinned": false,
@@ -1116,12 +1162,12 @@
                                                                                             "id": "e44bed52-442f-457c-97c0-9e80963666cd",
                                                                                             "savedPayload": {
                                                                                                 "position": {
-                                                                                                    "x": 27807.608189999093,
-                                                                                                    "y": 31464.62795186263
+                                                                                                    "x": 27528.608189999093,
+                                                                                                    "y": 31824.62795186263
                                                                                                 },
                                                                                                 "targetPosition": {
-                                                                                                    "x": 27631.27261431135,
-                                                                                                    "y": 31707.33305017511
+                                                                                                    "x": 27352.27261431135,
+                                                                                                    "y": 32067.33305017511
                                                                                                 },
                                                                                                 "floatingObject": {
                                                                                                     "isPinned": false,
@@ -1150,15 +1196,15 @@
                                                                                         "id": "2db219ce-4d69-49ea-8fe5-90291867f7b0",
                                                                                         "savedPayload": {
                                                                                             "position": {
-                                                                                                "x": 27631.27261431135,
-                                                                                                "y": 31707.33305017511
+                                                                                                "x": 27352.27261431135,
+                                                                                                "y": 32067.33305017511
                                                                                             },
                                                                                             "targetPosition": {
                                                                                                 "x": 27678.20295382342,
                                                                                                 "y": 32003.639552353652
                                                                                             },
                                                                                             "floatingObject": {
-                                                                                                "isPinned": false,
+                                                                                                "isPinned": true,
                                                                                                 "isFrozen": false,
                                                                                                 "isCollapsed": false,
                                                                                                 "angleToParent": 2,
@@ -1233,7 +1279,7 @@
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
                                                                                             "isFrozen": false,
-                                                                                            "isCollapsed": true,
+                                                                                            "isCollapsed": false,
                                                                                             "angleToParent": 3,
                                                                                             "distanceToParent": 3,
                                                                                             "arrangementStyle": 0
@@ -1377,7 +1423,7 @@
                                                                         },
                                                                         "taskServerAppReference": {
                                                                             "type": "Task Server App Reference",
-                                                                            "name": "",
+                                                                            "name": "Task Server App #18",
                                                                             "project": "User-Apps",
                                                                             "id": "e4c4302a-33fc-42f3-b98b-0ce1741b7161",
                                                                             "savedPayload": {
@@ -1399,7 +1445,30 @@
                                                                                 },
                                                                                 "uiObject": {
                                                                                     "isRunning": false
-                                                                                }
+                                                                                },
+                                                                                "referenceParent": {
+                                                                                    "type": "Task Server App",
+                                                                                    "name": "Task Server App #18",
+                                                                                    "id": "2ab512a4-4ac4-4029-8399-501243ebe5be"
+                                                                                },
+                                                                                "referenceParentCombinedNodePath": [
+                                                                                    [
+                                                                                        "prepheadrus",
+                                                                                        "User Profile"
+                                                                                    ],
+                                                                                    [
+                                                                                        "New User Apps",
+                                                                                        "User Apps"
+                                                                                    ],
+                                                                                    [
+                                                                                        "New Server Apps",
+                                                                                        "Server Apps"
+                                                                                    ],
+                                                                                    [
+                                                                                        "Task Server App #18",
+                                                                                        "Task Server App"
+                                                                                    ]
+                                                                                ]
                                                                             }
                                                                         },
                                                                         "p2pNetworkClient": {
@@ -11397,15 +11466,15 @@
                                                                         "Production Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "",
+                                                                        "Algorithmic-Trading",
                                                                         "Project Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "",
+                                                                        "Binance",
                                                                         "Exchange Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "",
+                                                                        " BTC/USDT",
                                                                         "Market Trading Tasks"
                                                                     ],
                                                                     [
@@ -15458,7 +15527,7 @@
                                                 {
                                                     "type": "Exchange Account Key",
                                                     "name": "Key for Trading Signals Follower Test",
-                                                    "config": "{ \n\"codeName\": \"\",\n\"secret\": \"\"\n}",
+                                                    "config": "{\n    \"codeName\": \"\",\n    \"secret\": \"\"\n}",
                                                     "project": "Foundations",
                                                     "id": "e85bbbd6-aca8-450f-9237-788062de5761",
                                                     "savedPayload": {
@@ -15621,7 +15690,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -15639,7 +15708,7 @@
             "viewport": {
                 "type": "Viewport",
                 "name": "New Viewport",
-                "config": "{\"zoom\":\"1.40\"}",
+                "config": "{\"zoom\":\"14.40\"}",
                 "project": "Foundations",
                 "id": "01713f1d-91b8-44f9-9c5d-a0c12fd09037",
                 "savedPayload": {
@@ -15664,8 +15733,8 @@
                     },
                     "frame": {
                         "position": {
-                            "x": 40,
-                            "y": 0
+                            "x": -11296.693746710958,
+                            "y": -3545.2202594365435
                         }
                     }
                 }
@@ -15688,7 +15757,7 @@
                                     "timeScale": {
                                         "type": "Time Scale",
                                         "name": "New Time Scale",
-                                        "config": "{\n    \"autoMinScale\": false,\n    \"autoMaxScale\": true,\n    \"fromDate\": \"2022-09-30T16:29:55.741Z\",\n    \"toDate\": \"2022-09-30T17:07:59.999Z\"\n}",
+                                        "config": "{\n    \"autoMinScale\": false,\n    \"autoMaxScale\": false,\n    \"fromDate\": \"2022-10-11T11:24:08.737Z\",\n    \"toDate\": \"2022-10-11T18:49:28.151Z\"\n}",
                                         "project": "Foundations",
                                         "id": "9e2e7c4e-56de-40ff-9bcb-447f00d3ec61",
                                         "savedPayload": {
@@ -15716,7 +15785,7 @@
                                     "rateScale": {
                                         "type": "Rate Scale",
                                         "name": "New Rate Scale",
-                                        "config": "{\n    \"autoMinScale\": true,\n    \"autoMaxScale\": true,\n    \"minValue\": 19455.618599999998,\n    \"maxValue\": 20072.235\n}",
+                                        "config": "{\n    \"autoMinScale\": false,\n    \"autoMaxScale\": false,\n    \"minValue\": 18053.113522630367,\n    \"maxValue\": 19953.769622630367\n}",
                                         "project": "Foundations",
                                         "id": "d30a6a15-d9a8-4a15-87f1-f2b32040722a",
                                         "savedPayload": {
@@ -15955,15 +16024,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -16150,15 +16219,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -16293,15 +16362,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -16488,15 +16557,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -16631,15 +16700,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -16774,15 +16843,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -16917,15 +16986,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17060,15 +17129,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17233,15 +17302,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17376,15 +17445,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17549,15 +17618,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17692,15 +17761,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17835,15 +17904,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -17978,15 +18047,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -18151,15 +18220,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -18294,15 +18363,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -18437,15 +18506,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -18580,15 +18649,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -18753,15 +18822,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -18896,15 +18965,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -19039,15 +19108,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -19182,15 +19251,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -19325,15 +19394,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -19468,15 +19537,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -19633,15 +19702,15 @@
                                                             "Trading Mines Data"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Foundations",
                                                             "Project Trading Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Binance",
                                                             "Exchange Trading Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            " BTC/USDT",
                                                             "Market Trading Products"
                                                         ],
                                                         [
@@ -19805,15 +19874,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -19944,15 +20013,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20083,15 +20152,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20222,15 +20291,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20361,15 +20430,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20500,15 +20569,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20639,15 +20708,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20778,15 +20847,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -20917,15 +20986,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -21054,15 +21123,15 @@
                                                             "Trading Mines Data"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Foundations",
                                                             "Project Trading Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Binance",
                                                             "Exchange Trading Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            " BTC/USDT",
                                                             "Market Trading Products"
                                                         ],
                                                         [
@@ -21124,7 +21193,7 @@
                                                                     {
                                                                         "type": "Layer",
                                                                         "name": "Episodes",
-                                                                        "config": "{\n    \"status\": \"off\",\n    \"showPanels\": false\n}",
+                                                                        "config": "{\n    \"status\": \"on\",\n    \"showPanels\": false\n}",
                                                                         "project": "Foundations",
                                                                         "layerPanels": {
                                                                             "type": "Layer Panels",
@@ -21601,15 +21670,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -22013,15 +22082,15 @@
                                                                                     "Trading Mines Data"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Foundations",
                                                                                     "Project Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    "Binance",
                                                                                     "Exchange Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "",
+                                                                                    " BTC/USDT",
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
@@ -22057,7 +22126,7 @@
                                                                             {
                                                                                 "type": "Layer",
                                                                                 "name": "Market Buy Orders",
-                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": false\n}",
+                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": true\n}",
                                                                                 "project": "Foundations",
                                                                                 "layerPanels": {
                                                                                     "type": "Layer Panels",
@@ -22420,15 +22489,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -22461,7 +22530,7 @@
                                                                             {
                                                                                 "type": "Layer",
                                                                                 "name": "Market Sell Orders",
-                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": false\n}",
+                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": true\n}",
                                                                                 "project": "Foundations",
                                                                                 "layerPanels": {
                                                                                     "type": "Layer Panels",
@@ -22824,15 +22893,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -23338,15 +23407,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -23852,15 +23921,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -24298,15 +24367,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -24714,15 +24783,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -25130,15 +25199,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -25546,15 +25615,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -25933,15 +26002,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -26294,15 +26363,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -26655,15 +26724,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -26906,15 +26975,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -27157,15 +27226,15 @@
                                                                                             "Trading Mines Data"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Foundations",
                                                                                             "Project Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            "Binance",
                                                                                             "Exchange Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "",
+                                                                                            " BTC/USDT",
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
@@ -27296,7 +27365,7 @@
                                                             "y": 80
                                                         },
                                                         "width": 150,
-                                                        "height": 470,
+                                                        "height": 40,
                                                         "radius": 0
                                                     },
                                                     "referenceParent": {
@@ -27322,15 +27391,15 @@
                                                             "Trading Mines Data"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Foundations",
                                                             "Project Trading Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Binance",
                                                             "Exchange Trading Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            " BTC/USDT",
                                                             "Market Trading Products"
                                                         ],
                                                         [
@@ -27569,15 +27638,15 @@
                                                                             "Data Mines Data"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            "Foundations",
                                                                             "Project Data Products"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            "Binance",
                                                                             "Exchange Data Products"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            " BTC/USDT",
                                                                             "Market Data Products"
                                                                         ],
                                                                         [
@@ -27752,15 +27821,15 @@
                                                                             "Data Mines Data"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            "Foundations",
                                                                             "Project Data Products"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            "Binance",
                                                                             "Exchange Data Products"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            " BTC/USDT",
                                                                             "Market Data Products"
                                                                         ],
                                                                         [
@@ -27857,15 +27926,15 @@
                                                             "Data Mines Data"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Foundations",
                                                             "Project Data Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Binance",
                                                             "Exchange Data Products"
                                                         ],
                                                         [
-                                                            "",
+                                                            " BTC/USDT",
                                                             "Market Data Products"
                                                         ],
                                                         [
@@ -27948,15 +28017,15 @@
                                                 "Production Trading Tasks"
                                             ],
                                             [
-                                                "",
+                                                "Algorithmic-Trading",
                                                 "Project Trading Tasks"
                                             ],
                                             [
-                                                "",
+                                                "Binance",
                                                 "Exchange Trading Tasks"
                                             ],
                                             [
-                                                "",
+                                                " BTC/USDT",
                                                 "Market Trading Tasks"
                                             ],
                                             [
@@ -28537,8 +28606,8 @@
                                 "id": "c8382e82-1847-43c1-9f97-54cefe4be76a",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 36420.83460500199,
-                                        "y": 10505.24307473766
+                                        "x": 36491.562285654814,
+                                        "y": 10796.786545234721
                                     },
                                     "targetPosition": {
                                         "x": 36708.68249708634,
@@ -28548,6 +28617,34 @@
                                         "isPinned": false,
                                         "isFrozen": false,
                                         "isCollapsed": true,
+                                        "angleToParent": 1,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    }
+                                }
+                            },
+                            {
+                                "type": "Plugin File",
+                                "name": "prepheadrus",
+                                "config": "{\"project\":\"Governance\",\"fileName\":\"prepheadrus\",\"folderName\":\"User-Profiles\",\"nodeType\":\"User Profile\",\"saveWithWorkspace\":false}",
+                                "project": "Community-Plugins",
+                                "id": "c1383b20-ae34-4491-9ea3-82ac04d2573f",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 36637.95481643351,
+                                        "y": 10298.219371293026
+                                    },
+                                    "targetPosition": {
+                                        "x": 36708.68249708634,
+                                        "y": 10589.762841790089
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
                                         "angleToParent": 1,
                                         "distanceToParent": 3,
                                         "arrangementStyle": 0
@@ -28870,7 +28967,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -29358,7 +29455,7 @@
             "githubAPI": {
                 "type": "Github API",
                 "name": "New Github API",
-                "config": "{\n    \"username\": \"Luis-Fernando-Molina\",\n    \"token\": \"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\"\n}",
+                "config": "{\n    \"username\": \"prepheadrus\",\n    \"token\": \"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\"\n}",
                 "project": "Foundations",
                 "id": "90d121ab-9f19-4437-a051-1222287085fc",
                 "savedPayload": {
@@ -29373,7 +29470,7 @@
                     "floatingObject": {
                         "isPinned": false,
                         "isFrozen": false,
-                        "isCollapsed": true,
+                        "isCollapsed": false,
                         "angleToParent": 1,
                         "distanceToParent": 3,
                         "arrangementStyle": 0
@@ -29424,7 +29521,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -29685,11 +29782,11 @@
                                             "referenceParent": {
                                                 "type": "Trigger On Signal",
                                                 "name": "New Trigger On Signal",
-                                                "id": "5c334777-6dab-487f-92b1-1371cb35ed76"
+                                                "id": "d311f31f-4c2a-41ca-9787-d3cbb140758a"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
-                                                    "Luis-Fernando-Molina",
+                                                    "prepheadrus",
                                                     "User Profile"
                                                 ],
                                                 [
@@ -29701,7 +29798,7 @@
                                                     "Social Trading Bots"
                                                 ],
                                                 [
-                                                    "Social Trading Bot #3",
+                                                    "Social Trading Bot #1",
                                                     "Social Trading Bot"
                                                 ],
                                                 [
@@ -29899,11 +29996,11 @@
                                             "referenceParent": {
                                                 "type": "Trigger Off Signal",
                                                 "name": "New Trigger Off Signal",
-                                                "id": "2ef86ce7-afc0-44d4-90e7-72c837d0a062"
+                                                "id": "9f25019c-e886-4189-afa4-ae9373449c7c"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
-                                                    "Luis-Fernando-Molina",
+                                                    "prepheadrus",
                                                     "User Profile"
                                                 ],
                                                 [
@@ -29915,7 +30012,7 @@
                                                     "Social Trading Bots"
                                                 ],
                                                 [
-                                                    "Social Trading Bot #3",
+                                                    "Social Trading Bot #1",
                                                     "Social Trading Bot"
                                                 ],
                                                 [
@@ -30113,11 +30210,11 @@
                                             "referenceParent": {
                                                 "type": "Take Position Signal",
                                                 "name": "New Take Position Signal",
-                                                "id": "5a52e9f8-a67c-4b03-893c-1278d4ab32bd"
+                                                "id": "ba39cd4d-85c0-4cc4-9826-de013f971d29"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
-                                                    "Luis-Fernando-Molina",
+                                                    "prepheadrus",
                                                     "User Profile"
                                                 ],
                                                 [
@@ -30129,7 +30226,7 @@
                                                     "Social Trading Bots"
                                                 ],
                                                 [
-                                                    "Social Trading Bot #3",
+                                                    "Social Trading Bot #1",
                                                     "Social Trading Bot"
                                                 ],
                                                 [
@@ -30301,11 +30398,11 @@
                                                 "referenceParent": {
                                                     "type": "Target Rate Signal",
                                                     "name": "New Target Rate Signal",
-                                                    "id": "405ef1c1-35f7-417e-8449-533a19649244"
+                                                    "id": "c40f7e8d-70b9-47ee-bcf6-960772535ef2"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
-                                                        "Luis-Fernando-Molina",
+                                                        "prepheadrus",
                                                         "User Profile"
                                                     ],
                                                     [
@@ -30317,7 +30414,7 @@
                                                         "Social Trading Bots"
                                                     ],
                                                     [
-                                                        "Social Trading Bot #3",
+                                                        "Social Trading Bot #1",
                                                         "Social Trading Bot"
                                                     ],
                                                     [
@@ -30456,11 +30553,11 @@
                                                 "referenceParent": {
                                                     "type": "Target Size In Quoted Asset Signal",
                                                     "name": "New Target Size In Quoted Asset Signal",
-                                                    "id": "867788e6-c804-48f2-af0b-505b361b06e3"
+                                                    "id": "d88fd62e-79b1-4580-bef1-6d5db0f94817"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
-                                                        "Luis-Fernando-Molina",
+                                                        "prepheadrus",
                                                         "User Profile"
                                                     ],
                                                     [
@@ -30472,7 +30569,7 @@
                                                         "Social Trading Bots"
                                                     ],
                                                     [
-                                                        "Social Trading Bot #3",
+                                                        "Social Trading Bot #1",
                                                         "Social Trading Bot"
                                                     ],
                                                     [
@@ -30708,11 +30805,11 @@
                                                                 "referenceParent": {
                                                                     "type": "Create Order Signal",
                                                                     "name": "New Create Order Signal",
-                                                                    "id": "9e23c910-3fea-4a38-9476-51f2909bcb14"
+                                                                    "id": "4cc80503-1e48-4629-b2cd-10000e0027dd"
                                                                 },
                                                                 "referenceParentCombinedNodePath": [
                                                                     [
-                                                                        "Luis-Fernando-Molina",
+                                                                        "prepheadrus",
                                                                         "User Profile"
                                                                     ],
                                                                     [
@@ -30724,7 +30821,7 @@
                                                                         "Social Trading Bots"
                                                                     ],
                                                                     [
-                                                                        "Social Trading Bot #3",
+                                                                        "Social Trading Bot #1",
                                                                         "Social Trading Bot"
                                                                     ],
                                                                     [
@@ -31023,11 +31120,11 @@
                                             "referenceParent": {
                                                 "type": "Close Stage Signal",
                                                 "name": "New Close Stage Signal",
-                                                "id": "04ced81a-b5a3-4531-9af5-fda8f204233c"
+                                                "id": "dcf3d5bb-a90c-45b3-a431-4a3a42dce9e3"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
-                                                    "Luis-Fernando-Molina",
+                                                    "prepheadrus",
                                                     "User Profile"
                                                 ],
                                                 [
@@ -31039,7 +31136,7 @@
                                                     "Social Trading Bots"
                                                 ],
                                                 [
-                                                    "Social Trading Bot #3",
+                                                    "Social Trading Bot #1",
                                                     "Social Trading Bot"
                                                 ],
                                                 [
@@ -31212,11 +31309,11 @@
                                                 "referenceParent": {
                                                     "type": "Target Rate Signal",
                                                     "name": "New Target Rate Signal",
-                                                    "id": "3ac7cab0-1799-4d39-b421-afd70e028558"
+                                                    "id": "ead849c7-a96f-463c-95d1-a402f8a21953"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
-                                                        "Luis-Fernando-Molina",
+                                                        "prepheadrus",
                                                         "User Profile"
                                                     ],
                                                     [
@@ -31228,7 +31325,7 @@
                                                         "Social Trading Bots"
                                                     ],
                                                     [
-                                                        "Social Trading Bot #3",
+                                                        "Social Trading Bot #1",
                                                         "Social Trading Bot"
                                                     ],
                                                     [
@@ -31367,11 +31464,11 @@
                                                 "referenceParent": {
                                                     "type": "Target Size In Base Asset Signal",
                                                     "name": "New Target Size In Base Asset Signal",
-                                                    "id": "5524b94b-76ca-486d-87db-49eac0c9b129"
+                                                    "id": "9f57834c-7398-4660-ad3d-90032052f679"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
-                                                        "Luis-Fernando-Molina",
+                                                        "prepheadrus",
                                                         "User Profile"
                                                     ],
                                                     [
@@ -31383,7 +31480,7 @@
                                                         "Social Trading Bots"
                                                     ],
                                                     [
-                                                        "Social Trading Bot #3",
+                                                        "Social Trading Bot #1",
                                                         "Social Trading Bot"
                                                     ],
                                                     [
@@ -31620,11 +31717,11 @@
                                                                 "referenceParent": {
                                                                     "type": "Create Order Signal",
                                                                     "name": "New Create Order Signal",
-                                                                    "id": "ba8b5c96-9a8b-4576-bfa7-071b7b8d1b4b"
+                                                                    "id": "7bc9af7d-31b7-40ac-9d93-166a5632937d"
                                                                 },
                                                                 "referenceParentCombinedNodePath": [
                                                                     [
-                                                                        "Luis-Fernando-Molina",
+                                                                        "prepheadrus",
                                                                         "User Profile"
                                                                     ],
                                                                     [
@@ -31636,7 +31733,7 @@
                                                                         "Social Trading Bots"
                                                                     ],
                                                                     [
-                                                                        "Social Trading Bot #3",
+                                                                        "Social Trading Bot #1",
                                                                         "Social Trading Bot"
                                                                     ],
                                                                     [
@@ -31934,11 +32031,11 @@
                                             "referenceParent": {
                                                 "type": "Close Stage Signal",
                                                 "name": "New Close Stage Signal",
-                                                "id": "02443575-aab7-41cc-b6e8-82374d42c7b4"
+                                                "id": "b939ef39-f128-45c2-ba84-ac67b4a225e9"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
-                                                    "Luis-Fernando-Molina",
+                                                    "prepheadrus",
                                                     "User Profile"
                                                 ],
                                                 [
@@ -31950,7 +32047,7 @@
                                                     "Social Trading Bots"
                                                 ],
                                                 [
-                                                    "Social Trading Bot #3",
+                                                    "Social Trading Bot #1",
                                                     "Social Trading Bot"
                                                 ],
                                                 [
@@ -32106,11 +32203,11 @@
                             "referenceParent": {
                                 "type": "Trading System Signal",
                                 "name": "New Trading System Signal",
-                                "id": "422d7ede-cb5e-44b9-bc8b-863a88e906f9"
+                                "id": "b25457ed-e421-4c3c-b457-617c93612211"
                             },
                             "referenceParentCombinedNodePath": [
                                 [
-                                    "Luis-Fernando-Molina",
+                                    "prepheadrus",
                                     "User Profile"
                                 ],
                                 [
@@ -32122,7 +32219,7 @@
                                     "Social Trading Bots"
                                 ],
                                 [
-                                    "Social Trading Bot #3",
+                                    "Social Trading Bot #1",
                                     "Social Trading Bot"
                                 ],
                                 [
