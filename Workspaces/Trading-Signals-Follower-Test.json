@@ -1423,7 +1423,7 @@
                                                                         },
                                                                         "taskServerAppReference": {
                                                                             "type": "Task Server App Reference",
-                                                                            "name": "Task Server App #18",
+                                                                            "name": "",
                                                                             "project": "User-Apps",
                                                                             "id": "e4c4302a-33fc-42f3-b98b-0ce1741b7161",
                                                                             "savedPayload": {
@@ -1445,30 +1445,7 @@
                                                                                 },
                                                                                 "uiObject": {
                                                                                     "isRunning": false
-                                                                                },
-                                                                                "referenceParent": {
-                                                                                    "type": "Task Server App",
-                                                                                    "name": "Task Server App #18",
-                                                                                    "id": "2ab512a4-4ac4-4029-8399-501243ebe5be"
-                                                                                },
-                                                                                "referenceParentCombinedNodePath": [
-                                                                                    [
-                                                                                        "prepheadrus",
-                                                                                        "User Profile"
-                                                                                    ],
-                                                                                    [
-                                                                                        "New User Apps",
-                                                                                        "User Apps"
-                                                                                    ],
-                                                                                    [
-                                                                                        "New Server Apps",
-                                                                                        "Server Apps"
-                                                                                    ],
-                                                                                    [
-                                                                                        "Task Server App #18",
-                                                                                        "Task Server App"
-                                                                                    ]
-                                                                                ]
+                                                                                }
                                                                             }
                                                                         },
                                                                         "p2pNetworkClient": {
@@ -11466,15 +11443,15 @@
                                                                         "Production Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "Algorithmic-Trading",
+                                                                        "",
                                                                         "Project Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "Binance",
+                                                                        "",
                                                                         "Exchange Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        " BTC/USDT",
+                                                                        "",
                                                                         "Market Trading Tasks"
                                                                     ],
                                                                     [
@@ -28017,15 +27994,15 @@
                                                 "Production Trading Tasks"
                                             ],
                                             [
-                                                "Algorithmic-Trading",
+                                                "",
                                                 "Project Trading Tasks"
                                             ],
                                             [
-                                                "Binance",
+                                                "",
                                                 "Exchange Trading Tasks"
                                             ],
                                             [
-                                                " BTC/USDT",
+                                                "",
                                                 "Market Trading Tasks"
                                             ],
                                             [
