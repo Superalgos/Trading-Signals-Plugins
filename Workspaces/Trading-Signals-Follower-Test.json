@@ -60,12 +60,12 @@
                                                                                     "id": "f7dc6613-2ae9-49c0-b2b2-863ada4eebdf",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 24554.579245385365,
-                                                                                            "y": 30388.965443949204
+                                                                                            "x": 24552.579245385365,
+                                                                                            "y": 30350.965443949204
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 24854.579245385365,
-                                                                                            "y": 30388.965443949204
+                                                                                            "x": 24852.579245385365,
+                                                                                            "y": 30350.965443949204
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -102,17 +102,17 @@
                                                                             ],
                                                                             "socialTradingBotReference": {
                                                                                 "type": "Social Trading Bot Reference",
-                                                                                "name": "Social Trading Bot #1",
+                                                                                "name": "",
                                                                                 "project": "Social-Trading",
                                                                                 "id": "4c1fbef7-3ed2-4d76-9ca6-02eeec35681d",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 24594.771624250032,
-                                                                                        "y": 30238.965443949204
+                                                                                        "x": 24592.771624250032,
+                                                                                        "y": 30200.965443949204
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 24854.579245385365,
-                                                                                        "y": 30388.965443949204
+                                                                                        "x": 24852.579245385365,
+                                                                                        "y": 30350.965443949204
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -124,41 +124,18 @@
                                                                                     },
                                                                                     "uiObject": {
                                                                                         "isRunning": false
-                                                                                    },
-                                                                                    "referenceParent": {
-                                                                                        "type": "Social Trading Bot",
-                                                                                        "name": "Social Trading Bot #1",
-                                                                                        "id": "b06a6b31-66a8-4315-8175-c862858c8c01"
-                                                                                    },
-                                                                                    "referenceParentCombinedNodePath": [
-                                                                                        [
-                                                                                            "prepheadrus",
-                                                                                            "User Profile"
-                                                                                        ],
-                                                                                        [
-                                                                                            "New User Bots",
-                                                                                            "User Bots"
-                                                                                        ],
-                                                                                        [
-                                                                                            "New Social Trading Bots",
-                                                                                            "Social Trading Bots"
-                                                                                        ],
-                                                                                        [
-                                                                                            "Social Trading Bot #1",
-                                                                                            "Social Trading Bot"
-                                                                                        ]
-                                                                                    ]
+                                                                                    }
                                                                                 }
                                                                             },
                                                                             "id": "0a96aae7-bded-42b1-bd93-6bdcdb74f48b",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 24854.579245385365,
-                                                                                    "y": 30388.965443949204
+                                                                                    "x": 24852.579245385365,
+                                                                                    "y": 30350.965443949204
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 25144.356993272086,
-                                                                                    "y": 30466.61115747996
+                                                                                    "x": 25142.356993272086,
+                                                                                    "y": 30428.61115747996
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -175,17 +152,17 @@
                                                                         },
                                                                         "taskServerAppReference": {
                                                                             "type": "Task Server App Reference",
-                                                                            "name": "Task Server App #18",
+                                                                            "name": "",
                                                                             "project": "User-Apps",
                                                                             "id": "c47d9a7d-5322-4220-939a-4efc2605b6ed",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 24994.356993272086,
-                                                                                    "y": 30206.80353634463
+                                                                                    "x": 24992.356993272086,
+                                                                                    "y": 30168.80353634463
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 25144.356993272086,
-                                                                                    "y": 30466.61115747996
+                                                                                    "x": 25142.356993272086,
+                                                                                    "y": 30428.61115747996
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -197,30 +174,7 @@
                                                                                 },
                                                                                 "uiObject": {
                                                                                     "isRunning": false
-                                                                                },
-                                                                                "referenceParent": {
-                                                                                    "type": "Task Server App",
-                                                                                    "name": "Task Server App #18",
-                                                                                    "id": "2ab512a4-4ac4-4029-8399-501243ebe5be"
-                                                                                },
-                                                                                "referenceParentCombinedNodePath": [
-                                                                                    [
-                                                                                        "prepheadrus",
-                                                                                        "User Profile"
-                                                                                    ],
-                                                                                    [
-                                                                                        "New User Apps",
-                                                                                        "User Apps"
-                                                                                    ],
-                                                                                    [
-                                                                                        "New Server Apps",
-                                                                                        "Server Apps"
-                                                                                    ],
-                                                                                    [
-                                                                                        "Task Server App #18",
-                                                                                        "Task Server App"
-                                                                                    ]
-                                                                                ]
+                                                                                }
                                                                             }
                                                                         },
                                                                         "p2pNetworkClient": {
@@ -409,12 +363,12 @@
                                                                             "id": "d1809695-2164-47f2-b380-0517bf1fb3dc",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 25222.002706802843,
-                                                                                    "y": 30176.83340959324
+                                                                                    "x": 25220.002706802843,
+                                                                                    "y": 30138.83340959324
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 25144.356993272086,
-                                                                                    "y": 30466.61115747996
+                                                                                    "x": 25142.356993272086,
+                                                                                    "y": 30428.61115747996
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -432,12 +386,12 @@
                                                                         "id": "855a4d06-64ca-44eb-98a6-b430dd86afb2",
                                                                         "savedPayload": {
                                                                             "position": {
-                                                                                "x": 25144.356993272086,
-                                                                                "y": 30466.61115747996
+                                                                                "x": 25142.356993272086,
+                                                                                "y": 30428.61115747996
                                                                             },
                                                                             "targetPosition": {
-                                                                                "x": 25294.356993272086,
-                                                                                "y": 30726.418778615294
+                                                                                "x": 25292.356993272086,
+                                                                                "y": 30688.418778615294
                                                                             },
                                                                             "floatingObject": {
                                                                                 "isPinned": false,
@@ -469,12 +423,12 @@
                                                                                     "id": "8093aa53-7213-4ebf-94ab-b4ace9d0a611",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 25672.002706802843,
-                                                                                            "y": 29917.025788457908
+                                                                                            "x": 25670.002706802843,
+                                                                                            "y": 29879.025788457908
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 25594.356993272086,
-                                                                                            "y": 30206.80353634463
+                                                                                            "x": 25592.356993272086,
+                                                                                            "y": 30168.80353634463
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -515,12 +469,12 @@
                                                                                     "id": "2078fbfc-51ba-4fad-9b69-23a2fdee9698",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 25806.48902762805,
-                                                                                            "y": 29994.671501988665
+                                                                                            "x": 25804.48902762805,
+                                                                                            "y": 29956.671501988665
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 25594.356993272086,
-                                                                                            "y": 30206.80353634463
+                                                                                            "x": 25592.356993272086,
+                                                                                            "y": 30168.80353634463
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -558,12 +512,12 @@
                                                                             "id": "d768daac-6f6a-44f5-9fd7-3147b7242a2b",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 25594.356993272086,
-                                                                                    "y": 30206.80353634463
+                                                                                    "x": 25592.356993272086,
+                                                                                    "y": 30168.80353634463
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 25444.356993272086,
-                                                                                    "y": 30466.61115747996
+                                                                                    "x": 25442.356993272086,
+                                                                                    "y": 30428.61115747996
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -581,12 +535,12 @@
                                                                         "id": "8d573cfb-3bd4-4626-85e6-82911efa1c88",
                                                                         "savedPayload": {
                                                                             "position": {
-                                                                                "x": 25444.356993272086,
-                                                                                "y": 30466.61115747996
+                                                                                "x": 25442.356993272086,
+                                                                                "y": 30428.61115747996
                                                                             },
                                                                             "targetPosition": {
-                                                                                "x": 25294.356993272086,
-                                                                                "y": 30726.418778615294
+                                                                                "x": 25292.356993272086,
+                                                                                "y": 30688.418778615294
                                                                             },
                                                                             "floatingObject": {
                                                                                 "isPinned": false,
@@ -605,12 +559,12 @@
                                                                 "id": "49dacee6-305f-4c59-bae5-0c3db574a4d9",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 25294.356993272086,
-                                                                        "y": 30726.418778615294
+                                                                        "x": 25292.356993272086,
+                                                                        "y": 30688.418778615294
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 25294.356993272086,
-                                                                        "y": 31026.418778615294
+                                                                        "x": 25292.356993272086,
+                                                                        "y": 30988.418778615294
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -629,12 +583,12 @@
                                                         "id": "da2175c3-487a-4adc-ba05-8b4dc04e8ecd",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 25294.356993272086,
-                                                                "y": 31026.418778615294
+                                                                "x": 25292.356993272086,
+                                                                "y": 30988.418778615294
                                                             },
                                                             "targetPosition": {
-                                                                "x": 25294.356993272086,
-                                                                "y": 31326.418778615294
+                                                                "x": 25292.356993272086,
+                                                                "y": 31288.418778615294
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -664,12 +618,12 @@
                                                 "id": "4b376d70-e42b-464b-90f5-6458b309b96b",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 25294.356993272086,
-                                                        "y": 31326.418778615294
+                                                        "x": 25292.356993272086,
+                                                        "y": 31288.418778615294
                                                     },
                                                     "targetPosition": {
-                                                        "x": 25294.356993272086,
-                                                        "y": 31626.418778615294
+                                                        "x": 25292.356993272086,
+                                                        "y": 31588.418778615294
                                                     },
                                                     "floatingObject": {
                                                         "isPinned": false,
@@ -715,12 +669,12 @@
                                         "id": "0f9117fa-f4b2-4119-a23f-237e2390eee6",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 25294.356993272086,
-                                                "y": 31626.418778615294
+                                                "x": 25292.356993272086,
+                                                "y": 31588.418778615294
                                             },
                                             "targetPosition": {
-                                                "x": 25294.356993272086,
-                                                "y": 31926.418778615294
+                                                "x": 25292.356993272086,
+                                                "y": 31888.418778615294
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -758,12 +712,12 @@
                                 "id": "e9766b7d-3a71-442b-b3fa-e83663a27dbe",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 25294.356993272086,
-                                        "y": 31926.418778615294
+                                        "x": 25292.356993272086,
+                                        "y": 31888.418778615294
                                     },
                                     "targetPosition": {
-                                        "x": 25294.356993272086,
-                                        "y": 32226.418778615294
+                                        "x": 25292.356993272086,
+                                        "y": 32188.418778615294
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -797,12 +751,12 @@
                         "id": "40af91d9-431c-4b7d-addc-aed37bc2f3fe",
                         "savedPayload": {
                             "position": {
-                                "x": 25294.356993272086,
-                                "y": 32226.418778615294
+                                "x": 25292.356993272086,
+                                "y": 32188.418778615294
                             },
                             "targetPosition": {
-                                "x": 25294.356993272086,
-                                "y": 32526.418778615294
+                                "x": 25292.356993272086,
+                                "y": 32488.418778615294
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -863,7 +817,7 @@
                                                                                     "project": "Foundations",
                                                                                     "session": {
                                                                                         "type": "Live Trading Session",
-                                                                                        "name": "Heartbeat Trading Signals Receiving",
+                                                                                        "name": "Trading Signals Follower Test",
                                                                                         "config": "{\"folderName\":\"Heartbeat-Trading-Signals-Receiving\"}",
                                                                                         "project": "Foundations",
                                                                                         "tradingParameters": {
@@ -878,12 +832,12 @@
                                                                                                 "id": "e349d072-bbf8-43dd-8aa0-bf937da604ec",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 26860.856244232356,
-                                                                                                        "y": 32058.755345528592
+                                                                                                        "x": 27137.856244232356,
+                                                                                                        "y": 31660.755345528592
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -906,12 +860,12 @@
                                                                                                 "id": "4644a30d-1c2e-4923-bfd1-54c3daa46053",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 26818.47879811607,
-                                                                                                        "y": 31963.574043167268
+                                                                                                        "x": 27095.47879811607,
+                                                                                                        "y": 31565.574043167268
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -934,12 +888,12 @@
                                                                                                 "id": "01111475-da94-463b-a7fc-af609e6ed129",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 26811.210947388387,
-                                                                                                        "y": 31859.63893550707
+                                                                                                        "x": 27088.210947388387,
+                                                                                                        "y": 31461.63893550707
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -957,17 +911,17 @@
                                                                                             "slippage": {
                                                                                                 "type": "Slippage",
                                                                                                 "name": "New Slippage",
-                                                                                                "config": "{ \n\"marketOrderRate\": 0.1,\n\"stopLoss\": 0.2,\n\"takeProfit\": 0.3\n}",
+                                                                                                "config": "{\n    \"marketOrderRate\": 0.1,\n    \"stopLoss\": 0.2,\n    \"takeProfit\": 0.3\n}",
                                                                                                 "project": "Foundations",
                                                                                                 "id": "ec020f4e-8811-4fc6-a463-1c4676a990a0",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 26839.929302109118,
-                                                                                                        "y": 31759.486130450645
+                                                                                                        "x": 27116.929302109118,
+                                                                                                        "y": 31361.486130450645
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -985,17 +939,17 @@
                                                                                             "feeStructure": {
                                                                                                 "type": "Fee Structure",
                                                                                                 "name": "New Fee Structure",
-                                                                                                "config": "{ \n\"maker\": 0.1,\n\"taker\": 0.1\n}",
+                                                                                                "config": "{\n    \"maker\": 0.1,\n    \"taker\": 0.1\n}",
                                                                                                 "project": "Foundations",
                                                                                                 "id": "b4156bf9-a105-4b50-be43-1bfd5d51a9d1",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 26901.170004861167,
-                                                                                                        "y": 31675.195534385773
+                                                                                                        "x": 27178.170004861167,
+                                                                                                        "y": 31277.195534385773
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1018,12 +972,12 @@
                                                                                                 "id": "becdeb03-e60a-43ae-882f-b64ed9d701af",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 26987.54652307613,
-                                                                                                        "y": 31616.93383719459
+                                                                                                        "x": 27264.54652307613,
+                                                                                                        "y": 31218.93383719459
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1046,12 +1000,12 @@
                                                                                                 "id": "df9a6bb8-b0fd-43ad-b82d-7d5c3e863951",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27088.64057387563,
-                                                                                                        "y": 31591.72825940942
+                                                                                                        "x": 27365.64057387563,
+                                                                                                        "y": 31193.72825940942
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1074,12 +1028,12 @@
                                                                                                 "id": "151b6109-e279-4055-8599-eb7177ce32f5",
                                                                                                 "savedPayload": {
                                                                                                     "position": {
-                                                                                                        "x": 27192.25872274397,
-                                                                                                        "y": 31602.618965705875
+                                                                                                        "x": 27469.25872274397,
+                                                                                                        "y": 31204.618965705875
                                                                                                     },
                                                                                                     "targetPosition": {
-                                                                                                        "x": 27109.567515998868,
-                                                                                                        "y": 31890.99747448737
+                                                                                                        "x": 27386.567515998868,
+                                                                                                        "y": 31492.99747448737
                                                                                                     },
                                                                                                     "floatingObject": {
                                                                                                         "isPinned": false,
@@ -1097,12 +1051,12 @@
                                                                                             "id": "54ab05ff-4c73-442c-bb9f-2f7780faf6c6",
                                                                                             "savedPayload": {
                                                                                                 "position": {
-                                                                                                    "x": 27109.567515998868,
-                                                                                                    "y": 31890.99747448737
+                                                                                                    "x": 27386.567515998868,
+                                                                                                    "y": 31492.99747448737
                                                                                                 },
                                                                                                 "targetPosition": {
-                                                                                                    "x": 27352.27261431135,
-                                                                                                    "y": 32067.33305017511
+                                                                                                    "x": 27629.27261431135,
+                                                                                                    "y": 31669.33305017511
                                                                                                 },
                                                                                                 "floatingObject": {
                                                                                                     "isPinned": false,
@@ -1124,12 +1078,12 @@
                                                                                             "id": "e7de660e-e8ae-40cc-89e6-1add0bbce159",
                                                                                             "savedPayload": {
                                                                                                 "position": {
-                                                                                                    "x": 27305.34227479928,
-                                                                                                    "y": 31771.02654799657
+                                                                                                    "x": 27582.34227479928,
+                                                                                                    "y": 31373.02654799657
                                                                                                 },
                                                                                                 "targetPosition": {
-                                                                                                    "x": 27352.27261431135,
-                                                                                                    "y": 32067.33305017511
+                                                                                                    "x": 27629.27261431135,
+                                                                                                    "y": 31669.33305017511
                                                                                                 },
                                                                                                 "floatingObject": {
                                                                                                     "isPinned": false,
@@ -1162,12 +1116,12 @@
                                                                                             "id": "e44bed52-442f-457c-97c0-9e80963666cd",
                                                                                             "savedPayload": {
                                                                                                 "position": {
-                                                                                                    "x": 27528.608189999093,
-                                                                                                    "y": 31824.62795186263
+                                                                                                    "x": 27805.608189999093,
+                                                                                                    "y": 31426.62795186263
                                                                                                 },
                                                                                                 "targetPosition": {
-                                                                                                    "x": 27352.27261431135,
-                                                                                                    "y": 32067.33305017511
+                                                                                                    "x": 27629.27261431135,
+                                                                                                    "y": 31669.33305017511
                                                                                                 },
                                                                                                 "floatingObject": {
                                                                                                     "isPinned": false,
@@ -1196,15 +1150,15 @@
                                                                                         "id": "2db219ce-4d69-49ea-8fe5-90291867f7b0",
                                                                                         "savedPayload": {
                                                                                             "position": {
-                                                                                                "x": 27352.27261431135,
-                                                                                                "y": 32067.33305017511
+                                                                                                "x": 27629.27261431135,
+                                                                                                "y": 31669.33305017511
                                                                                             },
                                                                                             "targetPosition": {
-                                                                                                "x": 27678.20295382342,
-                                                                                                "y": 32003.639552353652
+                                                                                                "x": 27676.20295382342,
+                                                                                                "y": 31965.639552353652
                                                                                             },
                                                                                             "floatingObject": {
-                                                                                                "isPinned": true,
+                                                                                                "isPinned": false,
                                                                                                 "isFrozen": false,
                                                                                                 "isCollapsed": false,
                                                                                                 "angleToParent": 2,
@@ -1223,12 +1177,12 @@
                                                                                         "id": "33c404cd-daf4-4f42-8ec2-321364664a78",
                                                                                         "savedPayload": {
                                                                                             "position": {
-                                                                                                "x": 27911.34674226051,
-                                                                                                "y": 31814.8434350387
+                                                                                                "x": 27909.34674226051,
+                                                                                                "y": 31776.8434350387
                                                                                             },
                                                                                             "targetPosition": {
-                                                                                                "x": 27678.20295382342,
-                                                                                                "y": 32003.639552353652
+                                                                                                "x": 27676.20295382342,
+                                                                                                "y": 31965.639552353652
                                                                                             },
                                                                                             "floatingObject": {
                                                                                                 "isPinned": false,
@@ -1269,12 +1223,12 @@
                                                                                     "id": "ceef719c-5326-49c9-9e41-5f624e9612d6",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 27678.20295382342,
-                                                                                            "y": 32003.639552353652
+                                                                                            "x": 27676.20295382342,
+                                                                                            "y": 31965.639552353652
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 27570.69256895983,
-                                                                                            "y": 32283.71368030281
+                                                                                            "x": 27568.69256895983,
+                                                                                            "y": 32245.71368030281
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -1316,12 +1270,12 @@
                                                                                 "id": "45e99b84-93c4-4f60-b2ee-a0274f8a632f",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 27803.836357396918,
-                                                                                        "y": 32094.91756298786
+                                                                                        "x": 27801.836357396918,
+                                                                                        "y": 32056.91756298786
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 27570.69256895983,
-                                                                                        "y": 32283.71368030281
+                                                                                        "x": 27568.69256895983,
+                                                                                        "y": 32245.71368030281
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -1339,12 +1293,12 @@
                                                                             "id": "04001ff2-7f01-4584-9911-e24e0697c081",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 27570.69256895983,
-                                                                                    "y": 32283.71368030281
+                                                                                    "x": 27568.69256895983,
+                                                                                    "y": 32245.71368030281
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 27394.356993272086,
-                                                                                    "y": 32526.418778615294
+                                                                                    "x": 27392.356993272086,
+                                                                                    "y": 32488.418778615294
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -1366,12 +1320,12 @@
                                                                             "id": "f6a326a6-aead-4e52-a123-dabb5bde9734",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 27679.67394816063,
-                                                                                    "y": 32433.71368030281
+                                                                                    "x": 27677.67394816063,
+                                                                                    "y": 32395.71368030281
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 27394.356993272086,
-                                                                                    "y": 32526.418778615294
+                                                                                    "x": 27392.356993272086,
+                                                                                    "y": 32488.418778615294
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -1428,12 +1382,12 @@
                                                                             "id": "e4c4302a-33fc-42f3-b98b-0ce1741b7161",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 27679.67394816063,
-                                                                                    "y": 32619.123876927777
+                                                                                    "x": 27677.67394816063,
+                                                                                    "y": 32581.123876927777
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 27394.356993272086,
-                                                                                    "y": 32526.418778615294
+                                                                                    "x": 27392.356993272086,
+                                                                                    "y": 32488.418778615294
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -1634,12 +1588,12 @@
                                                                             "id": "1b32a1a3-871b-4170-a869-6e011e2a2ee5",
                                                                             "savedPayload": {
                                                                                 "position": {
-                                                                                    "x": 27570.69256895983,
-                                                                                    "y": 32769.12387692778
+                                                                                    "x": 27568.69256895983,
+                                                                                    "y": 32731.123876927777
                                                                                 },
                                                                                 "targetPosition": {
-                                                                                    "x": 27394.356993272086,
-                                                                                    "y": 32526.418778615294
+                                                                                    "x": 27392.356993272086,
+                                                                                    "y": 32488.418778615294
                                                                                 },
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
@@ -1657,12 +1611,12 @@
                                                                         "id": "be24b31c-393e-4de3-8c0b-7255541235ff",
                                                                         "savedPayload": {
                                                                             "position": {
-                                                                                "x": 27394.356993272086,
-                                                                                "y": 32526.418778615294
+                                                                                "x": 27392.356993272086,
+                                                                                "y": 32488.418778615294
                                                                             },
                                                                             "targetPosition": {
-                                                                                "x": 27094.356993272086,
-                                                                                "y": 32526.418778615294
+                                                                                "x": 27092.356993272086,
+                                                                                "y": 32488.418778615294
                                                                             },
                                                                             "floatingObject": {
                                                                                 "isPinned": false,
@@ -1681,12 +1635,12 @@
                                                                 "id": "aa298605-845a-460c-a46a-d7d6fd7a11ff",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 27094.356993272086,
-                                                                        "y": 32526.418778615294
+                                                                        "x": 27092.356993272086,
+                                                                        "y": 32488.418778615294
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 26794.356993272086,
-                                                                        "y": 32526.418778615294
+                                                                        "x": 26792.356993272086,
+                                                                        "y": 32488.418778615294
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -1705,12 +1659,12 @@
                                                         "id": "db1128ba-ec06-4025-9cf9-3e9f5ddcde78",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 26794.356993272086,
-                                                                "y": 32526.418778615294
+                                                                "x": 26792.356993272086,
+                                                                "y": 32488.418778615294
                                                             },
                                                             "targetPosition": {
-                                                                "x": 26494.356993272086,
-                                                                "y": 32526.418778615294
+                                                                "x": 26492.356993272086,
+                                                                "y": 32488.418778615294
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -1740,12 +1694,12 @@
                                                 "id": "7bb12c71-2ed8-4d35-bbdb-545caf0b3322",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 26494.356993272086,
-                                                        "y": 32526.418778615294
+                                                        "x": 26492.356993272086,
+                                                        "y": 32488.418778615294
                                                     },
                                                     "targetPosition": {
-                                                        "x": 26194.356993272086,
-                                                        "y": 32526.418778615294
+                                                        "x": 26192.356993272086,
+                                                        "y": 32488.418778615294
                                                     },
                                                     "floatingObject": {
                                                         "isPinned": false,
@@ -1791,12 +1745,12 @@
                                         "id": "de26d952-237c-4573-b1cc-0be4822b8c22",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 26194.356993272086,
-                                                "y": 32526.418778615294
+                                                "x": 26192.356993272086,
+                                                "y": 32488.418778615294
                                             },
                                             "targetPosition": {
-                                                "x": 25894.356993272086,
-                                                "y": 32526.418778615294
+                                                "x": 25892.356993272086,
+                                                "y": 32488.418778615294
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -1834,12 +1788,12 @@
                                 "id": "69e0be51-15ca-4268-8c92-7ff388ba68c1",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 25894.356993272086,
-                                        "y": 32526.418778615294
+                                        "x": 25892.356993272086,
+                                        "y": 32488.418778615294
                                     },
                                     "targetPosition": {
-                                        "x": 25594.356993272086,
-                                        "y": 32526.418778615294
+                                        "x": 25592.356993272086,
+                                        "y": 32488.418778615294
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -1873,12 +1827,12 @@
                         "id": "673caa5f-511d-4688-9305-e5f0f0f780cd",
                         "savedPayload": {
                             "position": {
-                                "x": 25594.356993272086,
-                                "y": 32526.418778615294
+                                "x": 25592.356993272086,
+                                "y": 32488.418778615294
                             },
                             "targetPosition": {
-                                "x": 25294.356993272086,
-                                "y": 32526.418778615294
+                                "x": 25292.356993272086,
+                                "y": 32488.418778615294
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -8449,7 +8403,7 @@
                                                         },
                                                         {
                                                             "type": "Trading Session Reference",
-                                                            "name": "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                            "name": "Trading Signals Follower Test Live Trading Session",
                                                             "project": "Foundations",
                                                             "dataProducts": [],
                                                             "tradingMineProducts": [
@@ -11426,7 +11380,7 @@
                                                                 },
                                                                 "referenceParent": {
                                                                     "type": "Live Trading Session",
-                                                                    "name": "Heartbeat Trading Signals Receiving",
+                                                                    "name": "Trading Signals Follower Test",
                                                                     "id": "2db219ce-4d69-49ea-8fe5-90291867f7b0"
                                                                 },
                                                                 "referenceParentCombinedNodePath": [
@@ -11443,15 +11397,15 @@
                                                                         "Production Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "",
+                                                                        "Algorithmic-Trading",
                                                                         "Project Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "",
+                                                                        "Binance",
                                                                         "Exchange Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "",
+                                                                        " BTC/USDT",
                                                                         "Market Trading Tasks"
                                                                     ],
                                                                     [
@@ -11475,7 +11429,7 @@
                                                                         "Trading Process Instance"
                                                                     ],
                                                                     [
-                                                                        "Heartbeat Trading Signals Receiving",
+                                                                        "Trading Signals Follower Test",
                                                                         "Live Trading Session"
                                                                     ]
                                                                 ]
@@ -15012,12 +14966,12 @@
                         "id": "e2697759-6038-4943-b90c-5a68651ff9a8",
                         "savedPayload": {
                             "position": {
-                                "x": 25294.356993272086,
-                                "y": 32826.41877861529
+                                "x": 25292.356993272086,
+                                "y": 32788.41877861529
                             },
                             "targetPosition": {
-                                "x": 25294.356993272086,
-                                "y": 32526.418778615294
+                                "x": 25292.356993272086,
+                                "y": 32488.418778615294
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -15036,12 +14990,12 @@
                     "id": "e452cf65-2b2b-44f2-9e67-bdd9d3c008e4",
                     "savedPayload": {
                         "position": {
-                            "x": 25294.356993272086,
-                            "y": 32526.418778615294
+                            "x": 25292.356993272086,
+                            "y": 32488.418778615294
                         },
                         "targetPosition": {
-                            "x": 24994.356993272086,
-                            "y": 32526.418778615294
+                            "x": 24992.356993272086,
+                            "y": 32488.418778615294
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -15061,17 +15015,17 @@
             "id": "3c165071-7558-4708-9999-8ffe71d346b1",
             "savedPayload": {
                 "position": {
-                    "x": 24994.356993272086,
-                    "y": 32526.418778615294
+                    "x": 24992.356993272086,
+                    "y": 32488.418778615294
                 },
                 "targetPosition": {
-                    "x": 24994.356993272086,
-                    "y": 32526.418778615294
+                    "x": 24992.356993272086,
+                    "y": 32488.418778615294
                 },
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -15504,7 +15458,7 @@
                                                 {
                                                     "type": "Exchange Account Key",
                                                     "name": "Key for Trading Signals Follower Test",
-                                                    "config": "{\n    \"codeName\": \"\",\n    \"secret\": \"\"\n}",
+                                                    "config": "{\n    \"codeName\": \"DOUBLE_CLICK_ON_THIS_STRING_TO_SELECT_IT_XXX_DELETE_IT_AND_PASTE_YOUR_EXCHANGE_API_PUBLIC_KEY\",\n    \"secret\": \"REPLACE_THIS_STRING_WITH_YOUR_API_KEY_SECRET\"\n}",
                                                     "project": "Foundations",
                                                     "id": "e85bbbd6-aca8-450f-9237-788062de5761",
                                                     "savedPayload": {
@@ -15667,7 +15621,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -15734,7 +15688,7 @@
                                     "timeScale": {
                                         "type": "Time Scale",
                                         "name": "New Time Scale",
-                                        "config": "{\n    \"autoMinScale\": false,\n    \"autoMaxScale\": false,\n    \"fromDate\": \"2022-10-11T11:24:08.737Z\",\n    \"toDate\": \"2022-10-11T18:49:28.151Z\"\n}",
+                                        "config": "{\n    \"autoMinScale\": false,\n    \"autoMaxScale\": false,\n    \"fromDate\": \"2022-10-11T10:34:25.489Z\",\n    \"toDate\": \"2022-10-11T21:15:41.445Z\"\n}",
                                         "project": "Foundations",
                                         "id": "9e2e7c4e-56de-40ff-9bcb-447f00d3ec61",
                                         "savedPayload": {
@@ -15762,7 +15716,7 @@
                                     "rateScale": {
                                         "type": "Rate Scale",
                                         "name": "New Rate Scale",
-                                        "config": "{\n    \"autoMinScale\": false,\n    \"autoMaxScale\": false,\n    \"minValue\": 18053.113522630367,\n    \"maxValue\": 19953.769622630367\n}",
+                                        "config": "{\n    \"autoMinScale\": true,\n    \"autoMaxScale\": true,\n    \"minValue\": 18851.1048,\n    \"maxValue\": 19339.985\n}",
                                         "project": "Foundations",
                                         "id": "d30a6a15-d9a8-4a15-87f1-f2b32040722a",
                                         "savedPayload": {
@@ -16013,7 +15967,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -16208,7 +16162,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -16351,7 +16305,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -16546,7 +16500,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -16689,7 +16643,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -16832,7 +16786,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -16975,7 +16929,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -17118,7 +17072,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -17291,7 +17245,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -17434,7 +17388,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -17607,7 +17561,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -17750,7 +17704,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -17893,7 +17847,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18036,7 +17990,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18209,7 +18163,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18352,7 +18306,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18495,7 +18449,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18638,7 +18592,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18811,7 +18765,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -18954,7 +18908,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -19097,7 +19051,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -19240,7 +19194,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -19383,7 +19337,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -19526,7 +19480,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -19691,7 +19645,7 @@
                                                             "Market Trading Products"
                                                         ],
                                                         [
-                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                            "Trading Signals Follower Test Live Trading Session",
                                                             "Trading Session Reference"
                                                         ],
                                                         [
@@ -19863,7 +19817,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20002,7 +19956,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20141,7 +20095,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20280,7 +20234,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20419,7 +20373,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20558,7 +20512,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20697,7 +20651,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20836,7 +20790,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -20975,7 +20929,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -21112,7 +21066,7 @@
                                                             "Market Trading Products"
                                                         ],
                                                         [
-                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                            "Trading Signals Follower Test Live Trading Session",
                                                             "Trading Session Reference"
                                                         ],
                                                         [
@@ -21152,7 +21106,7 @@
                                             "layerManager": {
                                                 "type": "Layer Manager",
                                                 "name": "Masters",
-                                                "config": "{\n    \"visibleLayers\": 6,\n    \"panelLocation\": {\n        \"upOrDown\": \"up\",\n        \"leftOrRight\": \"left\"\n    }\n}",
+                                                "config": "{\n    \"visibleLayers\": 0,\n    \"panelLocation\": {\n        \"upOrDown\": \"up\",\n        \"leftOrRight\": \"left\"\n    }\n}",
                                                 "project": "Foundations",
                                                 "layers": [],
                                                 "botLayers": [
@@ -21659,7 +21613,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -22071,7 +22025,7 @@
                                                                                     "Market Trading Products"
                                                                                 ],
                                                                                 [
-                                                                                    "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                    "Trading Signals Follower Test Live Trading Session",
                                                                                     "Trading Session Reference"
                                                                                 ],
                                                                                 [
@@ -22103,7 +22057,7 @@
                                                                             {
                                                                                 "type": "Layer",
                                                                                 "name": "Market Buy Orders",
-                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": true\n}",
+                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": false\n}",
                                                                                 "project": "Foundations",
                                                                                 "layerPanels": {
                                                                                     "type": "Layer Panels",
@@ -22478,7 +22432,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -22507,7 +22461,7 @@
                                                                             {
                                                                                 "type": "Layer",
                                                                                 "name": "Market Sell Orders",
-                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": true\n}",
+                                                                                "config": "{\n    \"status\": \"on\",\n    \"showPanels\": false\n}",
                                                                                 "project": "Foundations",
                                                                                 "layerPanels": {
                                                                                     "type": "Layer Panels",
@@ -22882,7 +22836,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -23396,7 +23350,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -23910,7 +23864,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -24356,7 +24310,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -24772,7 +24726,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -25188,7 +25142,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -25604,7 +25558,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -25991,7 +25945,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -26352,7 +26306,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -26713,7 +26667,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -26964,7 +26918,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -27215,7 +27169,7 @@
                                                                                             "Market Trading Products"
                                                                                         ],
                                                                                         [
-                                                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                                                            "Trading Signals Follower Test Live Trading Session",
                                                                                             "Trading Session Reference"
                                                                                         ],
                                                                                         [
@@ -27380,7 +27334,7 @@
                                                             "Market Trading Products"
                                                         ],
                                                         [
-                                                            "Heartbeat Trading Signals Receiving Live Trading Session",
+                                                            "Trading Signals Follower Test Live Trading Session",
                                                             "Trading Session Reference"
                                                         ],
                                                         [
@@ -27977,7 +27931,7 @@
                                         },
                                         "referenceParent": {
                                             "type": "Live Trading Session",
-                                            "name": "Heartbeat Trading Signals Receiving",
+                                            "name": "Trading Signals Follower Test",
                                             "id": "2db219ce-4d69-49ea-8fe5-90291867f7b0"
                                         },
                                         "referenceParentCombinedNodePath": [
@@ -27994,15 +27948,15 @@
                                                 "Production Trading Tasks"
                                             ],
                                             [
-                                                "",
+                                                "Algorithmic-Trading",
                                                 "Project Trading Tasks"
                                             ],
                                             [
-                                                "",
+                                                "Binance",
                                                 "Exchange Trading Tasks"
                                             ],
                                             [
-                                                "",
+                                                " BTC/USDT",
                                                 "Market Trading Tasks"
                                             ],
                                             [
@@ -28026,7 +27980,7 @@
                                                 "Trading Process Instance"
                                             ],
                                             [
-                                                "Heartbeat Trading Signals Receiving",
+                                                "Trading Signals Follower Test",
                                                 "Live Trading Session"
                                             ]
                                         ]
@@ -28550,22 +28504,22 @@
                         "pluginFiles": [
                             {
                                 "type": "Plugin File",
-                                "name": "Luis-Fernando-Molina",
-                                "config": "{\"project\":\"Governance\",\"fileName\":\"Luis-Fernando-Molina\",\"folderName\":\"User-Profiles\",\"nodeType\":\"User Profile\",\"saveWithWorkspace\":false}",
+                                "name": "prepheadrus",
+                                "config": "{\"project\":\"Governance\",\"fileName\":\"prepheadrus\",\"folderName\":\"User-Profiles\",\"nodeType\":\"User Profile\",\"saveWithWorkspace\":false}",
                                 "project": "Community-Plugins",
                                 "pluginFilePosition": {
                                     "type": "Plugin File Position",
-                                    "name": "Luis-Fernando-Molina",
+                                    "name": "prepheadrus",
                                     "project": "Community-Plugins",
-                                    "id": "f02859b5-0386-4cde-ac91-e8ea3c0babd0",
+                                    "id": "21345332-c734-4f69-8b8f-9ecab11df0fd",
                                     "savedPayload": {
                                         "position": {
-                                            "x": 9709.356993272086,
-                                            "y": 25034.16877861529
+                                            "x": 9732.356993272086,
+                                            "y": 25031.16877861529
                                         },
                                         "targetPosition": {
-                                            "x": 36637.95481643351,
-                                            "y": 10298.219371293026
+                                            "x": 36491.562285654814,
+                                            "y": 10796.786545234721
                                         },
                                         "floatingObject": {
                                             "isPinned": true,
@@ -28580,11 +28534,11 @@
                                         }
                                     }
                                 },
-                                "id": "c8382e82-1847-43c1-9f97-54cefe4be76a",
+                                "id": "c1383b20-ae34-4491-9ea3-82ac04d2573f",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 36491.562285654814,
-                                        "y": 10796.786545234721
+                                        "x": 36420.83460500199,
+                                        "y": 10505.24307473766
                                     },
                                     "targetPosition": {
                                         "x": 36708.68249708634,
@@ -28594,34 +28548,6 @@
                                         "isPinned": false,
                                         "isFrozen": false,
                                         "isCollapsed": true,
-                                        "angleToParent": 1,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    }
-                                }
-                            },
-                            {
-                                "type": "Plugin File",
-                                "name": "prepheadrus",
-                                "config": "{\"project\":\"Governance\",\"fileName\":\"prepheadrus\",\"folderName\":\"User-Profiles\",\"nodeType\":\"User Profile\",\"saveWithWorkspace\":false}",
-                                "project": "Community-Plugins",
-                                "id": "c1383b20-ae34-4491-9ea3-82ac04d2573f",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 36637.95481643351,
-                                        "y": 10298.219371293026
-                                    },
-                                    "targetPosition": {
-                                        "x": 36708.68249708634,
-                                        "y": 10589.762841790089
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": false,
                                         "angleToParent": 1,
                                         "distanceToParent": 3,
                                         "arrangementStyle": 0
@@ -28944,7 +28870,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -29432,7 +29358,7 @@
             "githubAPI": {
                 "type": "Github API",
                 "name": "New Github API",
-                "config": "{\n    \"username\": \"prepheadrus\",\n    \"token\": \"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\"\n}",
+                "config": "{\n    \"username\": \"\",\n    \"token\": \"\"\n}",
                 "project": "Foundations",
                 "id": "90d121ab-9f19-4437-a051-1222287085fc",
                 "savedPayload": {
@@ -29498,7 +29424,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -29544,12 +29470,12 @@
             "id": "8cf3c984-f2ce-4ed5-9bfe-49255ed8a9e3",
             "savedPayload": {
                 "position": {
-                    "x": 9730.356993272086,
-                    "y": 17528.66877861529
+                    "x": 9745.356993272086,
+                    "y": 17515.66877861529
                 },
                 "targetPosition": {
-                    "x": 9730.356993272086,
-                    "y": 17528.66877861529
+                    "x": 9745.356993272086,
+                    "y": 17515.66877861529
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -32251,7 +32177,7 @@
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
