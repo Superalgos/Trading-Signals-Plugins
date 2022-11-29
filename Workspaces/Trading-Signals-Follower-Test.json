@@ -167,14 +167,37 @@
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
                                                                                     "isFrozen": false,
-                                                                                    "isCollapsed": false,
+                                                                                    "isCollapsed": true,
                                                                                     "angleToParent": 2,
                                                                                     "distanceToParent": 3,
                                                                                     "arrangementStyle": 0
                                                                                 },
                                                                                 "uiObject": {
                                                                                     "isRunning": false
-                                                                                }
+                                                                                },
+                                                                                "referenceParent": {
+                                                                                    "type": "Task Server App",
+                                                                                    "name": "Task Server App #1",
+                                                                                    "id": "a6525479-4bb5-4316-bfc2-83f46ea3266d"
+                                                                                },
+                                                                                "referenceParentCombinedNodePath": [
+                                                                                    [
+                                                                                        "Julian-Molina",
+                                                                                        "User Profile"
+                                                                                    ],
+                                                                                    [
+                                                                                        "New User Apps",
+                                                                                        "User Apps"
+                                                                                    ],
+                                                                                    [
+                                                                                        "New Server Apps",
+                                                                                        "Server Apps"
+                                                                                    ],
+                                                                                    [
+                                                                                        "Task Server App #1",
+                                                                                        "Task Server App"
+                                                                                    ]
+                                                                                ]
                                                                             }
                                                                         },
                                                                         "p2pNetworkClient": {
@@ -189,12 +212,12 @@
                                                                                 "id": "750fd61c-f482-47b1-8138-44c074dd6032",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 25072.002706802843,
-                                                                                        "y": 29917.025788457908
+                                                                                        "x": 25031.20658948789,
+                                                                                        "y": 29905.68962115615
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 25222.002706802843,
-                                                                                        "y": 30176.83340959324
+                                                                                        "x": 25220.002706802843,
+                                                                                        "y": 30138.83340959324
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -220,6 +243,52 @@
                                                                                     ]
                                                                                 }
                                                                             },
+                                                                            "p2pNetworkNodeReference": {
+                                                                                "type": "P2P Network Node Reference",
+                                                                                "name": "P2P Network Node #1",
+                                                                                "project": "Network",
+                                                                                "id": "bca0329b-4624-4cc7-ab93-bf45d15cb9dc",
+                                                                                "savedPayload": {
+                                                                                    "position": {
+                                                                                        "x": 25204.30191992996,
+                                                                                        "y": 29839.24454916687
+                                                                                    },
+                                                                                    "targetPosition": {
+                                                                                        "x": 25220.002706802843,
+                                                                                        "y": 30138.83340959324
+                                                                                    },
+                                                                                    "floatingObject": {
+                                                                                        "isPinned": false,
+                                                                                        "isFrozen": false,
+                                                                                        "isCollapsed": false,
+                                                                                        "angleToParent": 2,
+                                                                                        "distanceToParent": 3,
+                                                                                        "arrangementStyle": 0
+                                                                                    },
+                                                                                    "uiObject": {
+                                                                                        "isRunning": false
+                                                                                    },
+                                                                                    "referenceParent": {
+                                                                                        "type": "P2P Network Node",
+                                                                                        "name": "P2P Network Node #1",
+                                                                                        "id": "4bbf6d51-35d1-4100-a4bd-b5bcccc689a4"
+                                                                                    },
+                                                                                    "referenceParentCombinedNodePath": [
+                                                                                        [
+                                                                                            "tigers40",
+                                                                                            "User Profile"
+                                                                                        ],
+                                                                                        [
+                                                                                            "New P2P Network Nodes",
+                                                                                            "P2P Network Nodes"
+                                                                                        ],
+                                                                                        [
+                                                                                            "P2P Network Node #1",
+                                                                                            "P2P Network Node"
+                                                                                        ]
+                                                                                    ]
+                                                                                }
+                                                                            },
                                                                             "networkServices": {
                                                                                 "type": "Network Services",
                                                                                 "name": "New Network Services",
@@ -233,12 +302,12 @@
                                                                                     "id": "e70c725d-8167-4334-8573-3797b3613411",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 25222.002706802843,
-                                                                                            "y": 29597.2779138198
+                                                                                            "x": 25399.095204180234,
+                                                                                            "y": 29587.643378783243
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 25299.6484203336,
-                                                                                            "y": 29887.05566170652
+                                                                                            "x": 25383.39441730735,
+                                                                                            "y": 29887.232239209614
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -261,12 +330,12 @@
                                                                                     "id": "146abbf5-0b89-457c-b425-49e7f6cf7ecb",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 25511.780454689564,
-                                                                                            "y": 29674.923627350556
+                                                                                            "x": 25650.69637456386,
+                                                                                            "y": 29751.03508928775
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 25299.6484203336,
-                                                                                            "y": 29887.05566170652
+                                                                                            "x": 25383.39441730735,
+                                                                                            "y": 29887.232239209614
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -284,12 +353,12 @@
                                                                                 "id": "d8eb3b38-4278-44ed-9ff6-7146aac6511e",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 25299.6484203336,
-                                                                                        "y": 29887.05566170652
+                                                                                        "x": 25383.39441730735,
+                                                                                        "y": 29887.232239209614
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 25222.002706802843,
-                                                                                        "y": 30176.83340959324
+                                                                                        "x": 25220.002706802843,
+                                                                                        "y": 30138.83340959324
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -317,12 +386,12 @@
                                                                                     "id": "647912ac-17fa-49cc-bba3-be0d0686d248",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 25741.61794907351,
-                                                                                            "y": 29876.83340959324
+                                                                                            "x": 25780.150962701162,
+                                                                                            "y": 29923.812639866057
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 25481.810327938176,
-                                                                                            "y": 30026.83340959324
+                                                                                            "x": 25500.076834752002,
+                                                                                            "y": 30031.32302472965
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -340,12 +409,12 @@
                                                                                 "id": "67eb0f6e-d995-422b-b320-5428c30aff7d",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 25481.810327938176,
-                                                                                        "y": 30026.83340959324
+                                                                                        "x": 25500.076834752002,
+                                                                                        "y": 30031.32302472965
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 25222.002706802843,
-                                                                                        "y": 30176.83340959324
+                                                                                        "x": 25220.002706802843,
+                                                                                        "y": 30138.83340959324
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -1287,7 +1356,30 @@
                                                                                     },
                                                                                     "uiObject": {
                                                                                         "isRunning": false
-                                                                                    }
+                                                                                    },
+                                                                                    "referenceParent": {
+                                                                                        "type": "Social Trading Bot",
+                                                                                        "name": "Social Trading Bot #2",
+                                                                                        "id": "5e3f94fc-1565-4fe3-b891-e073405ca722"
+                                                                                    },
+                                                                                    "referenceParentCombinedNodePath": [
+                                                                                        [
+                                                                                            "Julian-Molina",
+                                                                                            "User Profile"
+                                                                                        ],
+                                                                                        [
+                                                                                            "New User Bots",
+                                                                                            "User Bots"
+                                                                                        ],
+                                                                                        [
+                                                                                            "New Social Trading Bots",
+                                                                                            "Social Trading Bots"
+                                                                                        ],
+                                                                                        [
+                                                                                            "Social Trading Bot #2",
+                                                                                            "Social Trading Bot"
+                                                                                        ]
+                                                                                    ]
                                                                                 }
                                                                             },
                                                                             "id": "04001ff2-7f01-4584-9911-e24e0697c081",
@@ -1414,12 +1506,12 @@
                                                                                 "id": "7ced6bb3-e547-4fd4-8491-c56b084b4860",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 27911.302379649358,
-                                                                                        "y": 30887.42938667444
+                                                                                        "x": 27868.69256895983,
+                                                                                        "y": 32731.123876927777
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 27631.2282517002,
-                                                                                        "y": 30994.939771538033
+                                                                                        "x": 27568.69256895983,
+                                                                                        "y": 32731.123876927777
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -1445,6 +1537,52 @@
                                                                                     ]
                                                                                 }
                                                                             },
+                                                                            "p2pNetworkNodeReference": {
+                                                                                "type": "P2P Network Node Reference",
+                                                                                "name": "P2P Network Node #1",
+                                                                                "project": "Network",
+                                                                                "id": "ae41c989-256c-41f2-a532-1de87e11bf04",
+                                                                                "savedPayload": {
+                                                                                    "position": {
+                                                                                        "x": 27811.39766727231,
+                                                                                        "y": 32907.45945261552
+                                                                                    },
+                                                                                    "targetPosition": {
+                                                                                        "x": 27568.69256895983,
+                                                                                        "y": 32731.123876927777
+                                                                                    },
+                                                                                    "floatingObject": {
+                                                                                        "isPinned": false,
+                                                                                        "isFrozen": false,
+                                                                                        "isCollapsed": false,
+                                                                                        "angleToParent": 2,
+                                                                                        "distanceToParent": 3,
+                                                                                        "arrangementStyle": 0
+                                                                                    },
+                                                                                    "uiObject": {
+                                                                                        "isRunning": false
+                                                                                    },
+                                                                                    "referenceParent": {
+                                                                                        "type": "P2P Network Node",
+                                                                                        "name": "P2P Network Node #1",
+                                                                                        "id": "4bbf6d51-35d1-4100-a4bd-b5bcccc689a4"
+                                                                                    },
+                                                                                    "referenceParentCombinedNodePath": [
+                                                                                        [
+                                                                                            "tigers40",
+                                                                                            "User Profile"
+                                                                                        ],
+                                                                                        [
+                                                                                            "New P2P Network Nodes",
+                                                                                            "P2P Network Nodes"
+                                                                                        ],
+                                                                                        [
+                                                                                            "P2P Network Node #1",
+                                                                                            "P2P Network Node"
+                                                                                        ]
+                                                                                    ]
+                                                                                }
+                                                                            },
                                                                             "networkServices": {
                                                                                 "type": "Network Services",
                                                                                 "name": "New Network Services",
@@ -1458,12 +1596,12 @@
                                                                                     "id": "e84e589e-9dcb-4b57-93a5-35c33a8d34a7",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 28203.64845760346,
-                                                                                            "y": 31085.602225480474
+                                                                                            "x": 27884.34111491553,
+                                                                                            "y": 33217.180013723984
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 27905.29188899298,
-                                                                                            "y": 31116.96076446077
+                                                                                            "x": 27661.39766727231,
+                                                                                            "y": 33016.440831816326
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -1486,12 +1624,12 @@
                                                                                     "id": "394ad918-9773-4a65-a1df-dd6ed44a8cca",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 28081.62746468072,
-                                                                                            "y": 31359.665862773254
+                                                                                            "x": 27599.024160026984,
+                                                                                            "y": 33309.88511203647
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 27905.29188899298,
-                                                                                            "y": 31116.96076446077
+                                                                                            "x": 27661.39766727231,
+                                                                                            "y": 33016.440831816326
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -1509,12 +1647,12 @@
                                                                                 "id": "55c9be74-4087-4c33-ba1d-473df281acb4",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 27905.29188899298,
-                                                                                        "y": 31116.96076446077
+                                                                                        "x": 27661.39766727231,
+                                                                                        "y": 33016.440831816326
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 27631.2282517002,
-                                                                                        "y": 30994.939771538033
+                                                                                        "x": 27568.69256895983,
+                                                                                        "y": 32731.123876927777
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -1542,12 +1680,12 @@
                                                                                     "id": "f6782ce2-1c3c-410f-9e65-216d31a9f422",
                                                                                     "savedPayload": {
                                                                                         "position": {
-                                                                                            "x": 27846.249021427382,
-                                                                                            "y": 31555.08802743635
+                                                                                            "x": 27383.282372334863,
+                                                                                            "y": 33301.757786704875
                                                                                         },
                                                                                         "targetPosition": {
-                                                                                            "x": 27738.73863656379,
-                                                                                            "y": 31275.013899487192
+                                                                                            "x": 27475.987470647346,
+                                                                                            "y": 33016.440831816326
                                                                                         },
                                                                                         "floatingObject": {
                                                                                             "isPinned": false,
@@ -1565,12 +1703,12 @@
                                                                                 "id": "7ed652a1-d8d5-4bec-9f03-8bed2c723992",
                                                                                 "savedPayload": {
                                                                                     "position": {
-                                                                                        "x": 27738.73863656379,
-                                                                                        "y": 31275.013899487192
+                                                                                        "x": 27475.987470647346,
+                                                                                        "y": 33016.440831816326
                                                                                     },
                                                                                     "targetPosition": {
-                                                                                        "x": 27631.2282517002,
-                                                                                        "y": 30994.939771538033
+                                                                                        "x": 27568.69256895983,
+                                                                                        "y": 32731.123876927777
                                                                                     },
                                                                                     "floatingObject": {
                                                                                         "isPinned": false,
@@ -15025,7 +15163,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -15059,7 +15197,7 @@
                                 "assets": [
                                     {
                                         "type": "Asset",
-                                        "name": "Bitcoin",
+                                        "name": "BTC",
                                         "config": "{ \n\"codeName\": \"BTC\"\n}",
                                         "project": "Foundations",
                                         "id": "5f5e4a94-5090-47d4-8883-cc2325d20bfa",
@@ -15087,7 +15225,7 @@
                                     },
                                     {
                                         "type": "Asset",
-                                        "name": "Tether",
+                                        "name": "USDT",
                                         "config": "{ \n\"codeName\": \"USDT\"\n}",
                                         "project": "Foundations",
                                         "id": "f110bfa0-bd5b-469b-a940-4524c8688136",
@@ -15151,7 +15289,7 @@
                                         "project": "Foundations",
                                         "baseAsset": {
                                             "type": "Market Base Asset",
-                                            "name": "Bitcoin",
+                                            "name": "BTC",
                                             "project": "Foundations",
                                             "id": "1017b30d-de1b-4212-991e-9fd0a5b6c814",
                                             "savedPayload": {
@@ -15176,7 +15314,7 @@
                                                 },
                                                 "referenceParent": {
                                                     "type": "Asset",
-                                                    "name": "Bitcoin",
+                                                    "name": "BTC",
                                                     "id": "5f5e4a94-5090-47d4-8883-cc2325d20bfa"
                                                 },
                                                 "referenceParentCombinedNodePath": [
@@ -15197,7 +15335,7 @@
                                                         "Exchange Assets"
                                                     ],
                                                     [
-                                                        "Bitcoin",
+                                                        "BTC",
                                                         "Asset"
                                                     ]
                                                 ]
@@ -15205,7 +15343,7 @@
                                         },
                                         "quotedAsset": {
                                             "type": "Market Quoted Asset",
-                                            "name": "Tether",
+                                            "name": "USDT",
                                             "project": "Foundations",
                                             "id": "705c4a67-787a-48cd-a3dc-3a557438bf0b",
                                             "savedPayload": {
@@ -15230,7 +15368,7 @@
                                                 },
                                                 "referenceParent": {
                                                     "type": "Asset",
-                                                    "name": "Tether",
+                                                    "name": "USDT",
                                                     "id": "f110bfa0-bd5b-469b-a940-4524c8688136"
                                                 },
                                                 "referenceParentCombinedNodePath": [
@@ -15251,7 +15389,7 @@
                                                         "Exchange Assets"
                                                     ],
                                                     [
-                                                        "Tether",
+                                                        "USDT",
                                                         "Asset"
                                                     ]
                                                 ]
@@ -15320,7 +15458,7 @@
                                             "assets": [
                                                 {
                                                     "type": "Exchange Account Asset",
-                                                    "name": "Bitcoin",
+                                                    "name": "BTC",
                                                     "project": "Foundations",
                                                     "id": "ba6f3d5c-b36b-49d9-947f-392068109169",
                                                     "savedPayload": {
@@ -15345,7 +15483,7 @@
                                                         },
                                                         "referenceParent": {
                                                             "type": "Asset",
-                                                            "name": "Bitcoin",
+                                                            "name": "BTC",
                                                             "id": "5f5e4a94-5090-47d4-8883-cc2325d20bfa"
                                                         },
                                                         "referenceParentCombinedNodePath": [
@@ -15366,7 +15504,7 @@
                                                                 "Exchange Assets"
                                                             ],
                                                             [
-                                                                "Bitcoin",
+                                                                "BTC",
                                                                 "Asset"
                                                             ]
                                                         ]
@@ -15374,7 +15512,7 @@
                                                 },
                                                 {
                                                     "type": "Exchange Account Asset",
-                                                    "name": "Tether",
+                                                    "name": "USDT",
                                                     "project": "Foundations",
                                                     "id": "c90be267-90f9-45ae-b225-0578adb4aad9",
                                                     "savedPayload": {
@@ -15399,7 +15537,7 @@
                                                         },
                                                         "referenceParent": {
                                                             "type": "Asset",
-                                                            "name": "Tether",
+                                                            "name": "USDT",
                                                             "id": "f110bfa0-bd5b-469b-a940-4524c8688136"
                                                         },
                                                         "referenceParentCombinedNodePath": [
@@ -15420,7 +15558,7 @@
                                                                 "Exchange Assets"
                                                             ],
                                                             [
-                                                                "Tether",
+                                                                "USDT",
                                                                 "Asset"
                                                             ]
                                                         ]
@@ -28537,8 +28675,63 @@
                                 "id": "c1383b20-ae34-4491-9ea3-82ac04d2573f",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 36420.83460500199,
-                                        "y": 10505.24307473766
+                                        "x": 36491.562285654814,
+                                        "y": 10796.786545234721
+                                    },
+                                    "targetPosition": {
+                                        "x": 36708.68249708634,
+                                        "y": 10589.762841790089
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": true,
+                                        "angleToParent": 1,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    }
+                                }
+                            },
+                            {
+                                "type": "Plugin File",
+                                "name": "tigers40",
+                                "config": "{\"project\":\"Governance\",\"fileName\":\"tigers40\",\"folderName\":\"User-Profiles\",\"nodeType\":\"User Profile\",\"saveWithWorkspace\":false}",
+                                "project": "Community-Plugins",
+                                "pluginFilePosition": {
+                                    "type": "Plugin File Position",
+                                    "name": "tigers40",
+                                    "project": "Community-Plugins",
+                                    "id": "012b8d3b-7539-4571-8a31-b1db561c1d59",
+                                    "savedPayload": {
+                                        "position": {
+                                            "x": 14653.356993272086,
+                                            "y": 24995.16877861529
+                                        },
+                                        "targetPosition": {
+                                            "x": 36637.95481643351,
+                                            "y": 10298.219371293026
+                                        },
+                                        "floatingObject": {
+                                            "isPinned": true,
+                                            "isFrozen": false,
+                                            "isCollapsed": false,
+                                            "angleToParent": 1,
+                                            "distanceToParent": 3,
+                                            "arrangementStyle": 0
+                                        },
+                                        "uiObject": {
+                                            "isRunning": false
+                                        }
+                                    }
+                                },
+                                "id": "8123666c-fa57-4197-b40e-918c10e61247",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 36637.95481643351,
+                                        "y": 10298.219371293026
                                     },
                                     "targetPosition": {
                                         "x": 36708.68249708634,
