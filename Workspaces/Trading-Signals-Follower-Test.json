@@ -271,11 +271,11 @@
                                                                                     "referenceParent": {
                                                                                         "type": "P2P Network Node",
                                                                                         "name": "P2P Network Node #1",
-                                                                                        "id": "4bbf6d51-35d1-4100-a4bd-b5bcccc689a4"
+                                                                                        "id": "afb843a8-d87d-47db-ac8b-2c06f9ecc431"
                                                                                     },
                                                                                     "referenceParentCombinedNodePath": [
                                                                                         [
-                                                                                            "tigers40",
+                                                                                            "prepheadrus",
                                                                                             "User Profile"
                                                                                         ],
                                                                                         [
@@ -442,7 +442,7 @@
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
                                                                                     "isFrozen": false,
-                                                                                    "isCollapsed": true,
+                                                                                    "isCollapsed": false,
                                                                                     "angleToParent": 2,
                                                                                     "distanceToParent": 3,
                                                                                     "arrangementStyle": 0
@@ -1565,11 +1565,11 @@
                                                                                     "referenceParent": {
                                                                                         "type": "P2P Network Node",
                                                                                         "name": "P2P Network Node #1",
-                                                                                        "id": "4bbf6d51-35d1-4100-a4bd-b5bcccc689a4"
+                                                                                        "id": "afb843a8-d87d-47db-ac8b-2c06f9ecc431"
                                                                                     },
                                                                                     "referenceParentCombinedNodePath": [
                                                                                         [
-                                                                                            "tigers40",
+                                                                                            "prepheadrus",
                                                                                             "User Profile"
                                                                                         ],
                                                                                         [
@@ -1736,7 +1736,7 @@
                                                                                 "floatingObject": {
                                                                                     "isPinned": false,
                                                                                     "isFrozen": false,
-                                                                                    "isCollapsed": true,
+                                                                                    "isCollapsed": false,
                                                                                     "angleToParent": 2,
                                                                                     "distanceToParent": 3,
                                                                                     "arrangementStyle": 0
@@ -15596,7 +15596,7 @@
                                                 {
                                                     "type": "Exchange Account Key",
                                                     "name": "Key for Trading Signals Follower Test",
-                                                    "config": "{\n    \"codeName\": \"DOUBLE_CLICK_ON_THIS_STRING_TO_SELECT_IT_XXX_DELETE_IT_AND_PASTE_YOUR_EXCHANGE_API_PUBLIC_KEY\",\n    \"secret\": \"REPLACE_THIS_STRING_WITH_YOUR_API_KEY_SECRET\"\n}",
+                                                    "config": "{\n    \"codeName\": \"DOUBLE_CLICK_ON_THIS_STRING_TO_SELECT_IT_XXX_DELETE_IT_AND_PASTE_YOUR_EXCHANGE_API_PUBLIC_KEY\",\n    \"secret\": \"\"\n}",
                                                     "project": "Foundations",
                                                     "id": "e85bbbd6-aca8-450f-9237-788062de5761",
                                                     "savedPayload": {
@@ -28675,63 +28675,8 @@
                                 "id": "c1383b20-ae34-4491-9ea3-82ac04d2573f",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 36491.562285654814,
-                                        "y": 10796.786545234721
-                                    },
-                                    "targetPosition": {
-                                        "x": 36708.68249708634,
-                                        "y": 10589.762841790089
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": true,
-                                        "angleToParent": 1,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    }
-                                }
-                            },
-                            {
-                                "type": "Plugin File",
-                                "name": "tigers40",
-                                "config": "{\"project\":\"Governance\",\"fileName\":\"tigers40\",\"folderName\":\"User-Profiles\",\"nodeType\":\"User Profile\",\"saveWithWorkspace\":false}",
-                                "project": "Community-Plugins",
-                                "pluginFilePosition": {
-                                    "type": "Plugin File Position",
-                                    "name": "tigers40",
-                                    "project": "Community-Plugins",
-                                    "id": "012b8d3b-7539-4571-8a31-b1db561c1d59",
-                                    "savedPayload": {
-                                        "position": {
-                                            "x": 14653.356993272086,
-                                            "y": 24995.16877861529
-                                        },
-                                        "targetPosition": {
-                                            "x": 36637.95481643351,
-                                            "y": 10298.219371293026
-                                        },
-                                        "floatingObject": {
-                                            "isPinned": true,
-                                            "isFrozen": false,
-                                            "isCollapsed": false,
-                                            "angleToParent": 1,
-                                            "distanceToParent": 3,
-                                            "arrangementStyle": 0
-                                        },
-                                        "uiObject": {
-                                            "isRunning": false
-                                        }
-                                    }
-                                },
-                                "id": "8123666c-fa57-4197-b40e-918c10e61247",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 36637.95481643351,
-                                        "y": 10298.219371293026
+                                        "x": 36420.83460500199,
+                                        "y": 10505.24307473766
                                     },
                                     "targetPosition": {
                                         "x": 36708.68249708634,
@@ -29063,7 +29008,7 @@
                 "floatingObject": {
                     "isPinned": true,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 1,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -32388,12 +32333,12 @@
             "id": "2ebc2002-6da1-428f-8b3c-a11bf337d9f3",
             "savedPayload": {
                 "position": {
-                    "x": 37283,
-                    "y": 18805.5
+                    "x": 37295,
+                    "y": 18698.5
                 },
                 "targetPosition": {
-                    "x": 37283,
-                    "y": 18805.5
+                    "x": 37295,
+                    "y": 18698.5
                 },
                 "floatingObject": {
                     "isPinned": false,
