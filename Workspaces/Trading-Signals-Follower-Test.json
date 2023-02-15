@@ -11535,15 +11535,15 @@
                                                                         "Production Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "Algorithmic-Trading",
+                                                                        "",
                                                                         "Project Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        "Binance",
+                                                                        "",
                                                                         "Exchange Trading Tasks"
                                                                     ],
                                                                     [
-                                                                        " BTC/USDT",
+                                                                        "",
                                                                         "Market Trading Tasks"
                                                                     ],
                                                                     [
@@ -15596,7 +15596,7 @@
                                                 {
                                                     "type": "Exchange Account Key",
                                                     "name": "Key for Trading Signals Follower Test",
-                                                    "config": "{\n    \"codeName\": \"DOUBLE_CLICK_ON_THIS_STRING_TO_SELECT_IT_XXX_DELETE_IT_AND_PASTE_YOUR_EXCHANGE_API_PUBLIC_KEY\",\n    \"secret\": \"\"\n}",
+                                                    "config": "{\n    \"codeName\": \"DOUBLE_CLICK_ON_THIS_STRING_TO_SELECT_IT_XXX_DELETE_IT_AND_PASTE_YOUR_EXCHANGE_API_PUBLIC_KEY\",\n    \"secret\": \"REPLACE_THIS_STRING_WITH_YOUR_API_KEY_SECRET\"\n}",
                                                     "project": "Foundations",
                                                     "id": "e85bbbd6-aca8-450f-9237-788062de5761",
                                                     "savedPayload": {
@@ -28086,15 +28086,15 @@
                                                 "Production Trading Tasks"
                                             ],
                                             [
-                                                "Algorithmic-Trading",
+                                                "",
                                                 "Project Trading Tasks"
                                             ],
                                             [
-                                                "Binance",
+                                                "",
                                                 "Exchange Trading Tasks"
                                             ],
                                             [
-                                                " BTC/USDT",
+                                                "",
                                                 "Market Trading Tasks"
                                             ],
                                             [
@@ -29580,12 +29580,12 @@
             "id": "f614fedc-e405-4260-9e17-90c863482c8d",
             "savedPayload": {
                 "position": {
-                    "x": 14641.356993272086,
-                    "y": 17519.168778615294
+                    "x": 9747.356993272086,
+                    "y": 26778.668778615294
                 },
                 "targetPosition": {
-                    "x": 14641.356993272086,
-                    "y": 17519.168778615294
+                    "x": 9747.356993272086,
+                    "y": 26778.668778615294
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -29608,12 +29608,12 @@
             "id": "8cf3c984-f2ce-4ed5-9bfe-49255ed8a9e3",
             "savedPayload": {
                 "position": {
-                    "x": 9745.356993272086,
-                    "y": 17515.66877861529
+                    "x": 9750.356993272086,
+                    "y": 18514.16877861529
                 },
                 "targetPosition": {
-                    "x": 9745.356993272086,
-                    "y": 17515.66877861529
+                    "x": 9750.356993272086,
+                    "y": 18514.16877861529
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -29823,7 +29823,7 @@
                                             "referenceParent": {
                                                 "type": "Trigger On Signal",
                                                 "name": "New Trigger On Signal",
-                                                "id": "d311f31f-4c2a-41ca-9787-d3cbb140758a"
+                                                "id": "ce251e5f-e1b9-4bc9-a8b4-137778e1ef69"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -30037,7 +30037,7 @@
                                             "referenceParent": {
                                                 "type": "Trigger Off Signal",
                                                 "name": "New Trigger Off Signal",
-                                                "id": "9f25019c-e886-4189-afa4-ae9373449c7c"
+                                                "id": "88848a3b-0a8a-4935-9c0d-50e15e5b5a90"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -30251,7 +30251,7 @@
                                             "referenceParent": {
                                                 "type": "Take Position Signal",
                                                 "name": "New Take Position Signal",
-                                                "id": "ba39cd4d-85c0-4cc4-9826-de013f971d29"
+                                                "id": "9a1cfb7d-8d72-40a5-bda3-4a02f13ddb46"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -30439,7 +30439,7 @@
                                                 "referenceParent": {
                                                     "type": "Target Rate Signal",
                                                     "name": "New Target Rate Signal",
-                                                    "id": "c40f7e8d-70b9-47ee-bcf6-960772535ef2"
+                                                    "id": "a0c438eb-fc63-421e-9c9b-a2724017b741"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
@@ -30594,7 +30594,7 @@
                                                 "referenceParent": {
                                                     "type": "Target Size In Quoted Asset Signal",
                                                     "name": "New Target Size In Quoted Asset Signal",
-                                                    "id": "d88fd62e-79b1-4580-bef1-6d5db0f94817"
+                                                    "id": "33ceef8f-d7a8-42ef-9327-bec0e7199029"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
@@ -30846,7 +30846,7 @@
                                                                 "referenceParent": {
                                                                     "type": "Create Order Signal",
                                                                     "name": "New Create Order Signal",
-                                                                    "id": "4cc80503-1e48-4629-b2cd-10000e0027dd"
+                                                                    "id": "0f5275b9-83e0-4554-853f-537f05cc52e9"
                                                                 },
                                                                 "referenceParentCombinedNodePath": [
                                                                     [
@@ -31161,7 +31161,7 @@
                                             "referenceParent": {
                                                 "type": "Close Stage Signal",
                                                 "name": "New Close Stage Signal",
-                                                "id": "dcf3d5bb-a90c-45b3-a431-4a3a42dce9e3"
+                                                "id": "24453a10-f69d-4aab-8253-8036a4b4a012"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -31350,7 +31350,7 @@
                                                 "referenceParent": {
                                                     "type": "Target Rate Signal",
                                                     "name": "New Target Rate Signal",
-                                                    "id": "ead849c7-a96f-463c-95d1-a402f8a21953"
+                                                    "id": "78bdd5e6-fa81-4f21-a7de-6b215aba83d6"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
@@ -31505,7 +31505,7 @@
                                                 "referenceParent": {
                                                     "type": "Target Size In Base Asset Signal",
                                                     "name": "New Target Size In Base Asset Signal",
-                                                    "id": "9f57834c-7398-4660-ad3d-90032052f679"
+                                                    "id": "d87c416b-b11a-40ed-a156-7b9b15bc449e"
                                                 },
                                                 "referenceParentCombinedNodePath": [
                                                     [
@@ -31758,7 +31758,7 @@
                                                                 "referenceParent": {
                                                                     "type": "Create Order Signal",
                                                                     "name": "New Create Order Signal",
-                                                                    "id": "7bc9af7d-31b7-40ac-9d93-166a5632937d"
+                                                                    "id": "500f1034-f8d3-4168-a896-280294d6f263"
                                                                 },
                                                                 "referenceParentCombinedNodePath": [
                                                                     [
@@ -32072,7 +32072,7 @@
                                             "referenceParent": {
                                                 "type": "Close Stage Signal",
                                                 "name": "New Close Stage Signal",
-                                                "id": "b939ef39-f128-45c2-ba84-ac67b4a225e9"
+                                                "id": "e07745dd-5eaa-408d-932f-6cd6d598224d"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -32244,7 +32244,7 @@
                             "referenceParent": {
                                 "type": "Trading System Signal",
                                 "name": "New Trading System Signal",
-                                "id": "b25457ed-e421-4c3c-b457-617c93612211"
+                                "id": "41dbf950-9d6e-4915-b3b1-1432884a80f9"
                             },
                             "referenceParentCombinedNodePath": [
                                 [
